@@ -990,6 +990,7 @@ Declaration(Class(obo:CHEBI_9405))
 Declaration(Class(obo:CHEBI_9679))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000412))
+Declaration(AnnotationProperty(<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym>))
 Declaration(AnnotationProperty(rdfs:label))
 ############################
 #   Annotation Properties
@@ -7196,6 +7197,7 @@ SubClassOf(obo:CHEBI_59999 obo:CHEBI_24431)
 
 AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_60004 "A mixture is a chemical substance composed of multiple molecules, at least two of which are of a different kind.")
 AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_60004 obo:chebi.owl)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> obo:CHEBI_60004 "mixed"@en)
 AnnotationAssertion(rdfs:label obo:CHEBI_60004 "mixture")
 SubClassOf(obo:CHEBI_60004 obo:CHEBI_59999)
 
