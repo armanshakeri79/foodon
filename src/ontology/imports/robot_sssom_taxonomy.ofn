@@ -1,0 +1,281 @@
+Prefix(:=<http://purl.obolibrary.org/obo/foodon/imports/robot_sssom_taxonomy.ofn#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<http://purl.obolibrary.org/obo/foodon/imports/robot_sssom_taxonomy.ofn>
+
+Declaration(Class(<http://purl.obolibrary.org/obo/NCBITaxon_2706>))
+Declaration(Class(<http://purl.obolibrary.org/obo/NCBITaxon_3747>))
+Declaration(Class(<http://purl.obolibrary.org/obo/NCBITaxon_4072>))
+Declaration(Class(<http://purl.obolibrary.org/obo/NCBITaxon_4081>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q105560983>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q106581429>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q109122706>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q109378984>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q110526701>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q11311156>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q116783079>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q125876541>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q127514380>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q12950778>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q133300398>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q133824919>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q16861014>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q2003973>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q20686401>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q25041950>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q25104845>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q31838921>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q3294493>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q33150947>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q3908544>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q4750898>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q4832876>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q4849788>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q48814971>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q4921123>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q5057060>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q5092237>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q5173169>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q5476268>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q5503208>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q5524494>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q5601907>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q6760610>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q6913112>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q6929220>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q7067706>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q7403210>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q8052143>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q85747085>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q85799513>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q96195925>))
+Declaration(Class(<https://www.wikidata.org/wiki/Q96318632>))
+
+
+############################
+#   Classes
+############################
+
+# Class: <https://www.wikidata.org/wiki/Q105560983> (Capsicum annuum ‘New Mexico No. 9')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q105560983> "Capsicum annuum ‘New Mexico No. 9'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q105560983> <https://www.wikidata.org/wiki/Q4750898>)
+
+# Class: <https://www.wikidata.org/wiki/Q106581429> (Solanum lycopersicum 'Lukullus')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q106581429> "Solanum lycopersicum 'Lukullus'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q106581429> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q109122706> (Solanum lycopersicum group 'Tomato')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q109122706> "Solanum lycopersicum group 'Tomato'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q109122706> <http://purl.obolibrary.org/obo/NCBITaxon_4081>)
+
+# Class: <https://www.wikidata.org/wiki/Q109378984> (Capsicum annuum ‘Española Improved’)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q109378984> "Capsicum annuum ‘Española Improved’"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q109378984> <https://www.wikidata.org/wiki/Q4750898>)
+
+# Class: <https://www.wikidata.org/wiki/Q110526701> (Citrus group 'Citrus')
+
+AnnotationAssertion(rdfs:comment <https://www.wikidata.org/wiki/Q110526701> "There are many citrus cultivar groups, and underlying citrus fruits will evolve to be classified under them."@en)
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q110526701> "Citrus group 'Citrus'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q110526701> <http://purl.obolibrary.org/obo/NCBITaxon_2706>)
+
+# Class: <https://www.wikidata.org/wiki/Q11311156> (Sweet Spring)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q11311156> "Sweet Spring"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q11311156> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q116783079> (Solanum lycopersicum 'Goose Creek')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q116783079> "Solanum lycopersicum 'Goose Creek'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q116783079> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q125876541> (Q125876541)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q125876541> "Q125876541"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q125876541> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q127514380> (Solanum lycopersicum 'Albenga')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q127514380> "Solanum lycopersicum 'Albenga'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q127514380> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q12950778> (Yuja)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q12950778> "Yuja"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q12950778> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q133300398> (Fragaria × ananassa group 'Strawberry')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q133300398> "Fragaria × ananassa group 'Strawberry'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q133300398> <http://purl.obolibrary.org/obo/NCBITaxon_3747>)
+
+# Class: <https://www.wikidata.org/wiki/Q133824919> (Q133824919)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q133824919> "Q133824919"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q133824919> <https://www.wikidata.org/wiki/Q133300398>)
+
+# Class: <https://www.wikidata.org/wiki/Q16861014> (Solanum lycopersicum 'Matt's Wild Cherry')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q16861014> "Solanum lycopersicum 'Matt's Wild Cherry'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q16861014> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q2003973> (Capsicum annuum 'NuMex Big Jim’)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q2003973> "Capsicum annuum 'NuMex Big Jim’"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q2003973> <https://www.wikidata.org/wiki/Q4750898>)
+
+# Class: <https://www.wikidata.org/wiki/Q20686401> (Dancy)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q20686401> "Dancy"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q20686401> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q25041950> (Solanum lycopersicum 'Paul Robeson')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q25041950> "Solanum lycopersicum 'Paul Robeson'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q25041950> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q25104845> (Solanum lycopersicum 'Siberian')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q25104845> "Solanum lycopersicum 'Siberian'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q25104845> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q31838921> (Solanum lycopersicum 'Sunviva')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q31838921> "Solanum lycopersicum 'Sunviva'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q31838921> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q3294493> (Solanum lycopersicum 'Marmande')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q3294493> "Solanum lycopersicum 'Marmande'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q3294493> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q33150947> (Capsicum annuum 'Chimayó')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q33150947> "Capsicum annuum 'Chimayó'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q33150947> <https://www.wikidata.org/wiki/Q4750898>)
+
+# Class: <https://www.wikidata.org/wiki/Q3908544> (Citrus 'kinnow')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q3908544> "Citrus 'kinnow'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q3908544> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q4750898> (Capsicum annuum group 'New Mexico')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q4750898> "Capsicum annuum group 'New Mexico'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q4750898> <http://purl.obolibrary.org/obo/NCBITaxon_4072>)
+
+# Class: <https://www.wikidata.org/wiki/Q4832876> (Solanum lycopersicum 'Azoychka')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q4832876> "Solanum lycopersicum 'Azoychka'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q4832876> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q4849788> (Citrus 'Balady')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q4849788> "Citrus 'Balady'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q4849788> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q48814971> (Solanum lycopersicum 'Jersey Boy')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q48814971> "Solanum lycopersicum 'Jersey Boy'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q48814971> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q4921123> (Solanum lycopersicum 'Black Krim')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q4921123> "Solanum lycopersicum 'Black Krim'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q4921123> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q5057060> (cedrate fruit)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5057060> "cedrate fruit"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q5057060> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q5092237> (Solanum lycopersicum 'Cherokee Purple')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5092237> "Solanum lycopersicum 'Cherokee Purple'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q5092237> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q5173169> (Corsican citron)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5173169> "Corsican citron"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q5173169> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q5476268> (Solanum lycopersicum 'Fourth of July')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5476268> "Solanum lycopersicum 'Fourth of July'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q5476268> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q5503208> (Capsicum annuum 'Fresno pepper')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5503208> "Capsicum annuum 'Fresno pepper'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q5503208> <https://www.wikidata.org/wiki/Q4750898>)
+
+# Class: <https://www.wikidata.org/wiki/Q5524494> (Garut Orange fruit)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5524494> "Garut Orange fruit"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q5524494> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q5601907> (Greek citron)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5601907> "Greek citron"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q5601907> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q6760610> (Solanum lycopersicum 'Marglobe')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q6760610> "Solanum lycopersicum 'Marglobe'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q6760610> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q6913112> (Moroccan citron)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q6913112> "Moroccan citron"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q6913112> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q6929220> (Solanum lycopersicum 'Mr. Stripey')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q6929220> "Solanum lycopersicum 'Mr. Stripey'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q6929220> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q7067706> (Capsicum annuum 'NuMex Twilight')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q7067706> "Capsicum annuum 'NuMex Twilight'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q7067706> <https://www.wikidata.org/wiki/Q4750898>)
+
+# Class: <https://www.wikidata.org/wiki/Q7403210> (komikan)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q7403210> "komikan"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q7403210> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q8052143> (Yemenite citron)
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q8052143> "Yemenite citron"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q8052143> <https://www.wikidata.org/wiki/Q3908544>)
+
+# Class: <https://www.wikidata.org/wiki/Q85747085> (Capsicum annuum 'Big Jim')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q85747085> "Capsicum annuum 'Big Jim'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q85747085> <https://www.wikidata.org/wiki/Q4750898>)
+
+# Class: <https://www.wikidata.org/wiki/Q85799513> (Capsicum annuum ‘Sandia')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q85799513> "Capsicum annuum ‘Sandia'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q85799513> <https://www.wikidata.org/wiki/Q4750898>)
+
+# Class: <https://www.wikidata.org/wiki/Q96195925> (Solanum lycopersicum 'Vivagrande')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q96195925> "Solanum lycopersicum 'Vivagrande'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q96195925> <https://www.wikidata.org/wiki/Q109122706>)
+
+# Class: <https://www.wikidata.org/wiki/Q96318632> (Capsicum annuum ‘Anaheim')
+
+AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q96318632> "Capsicum annuum ‘Anaheim'"@en)
+SubClassOf(<https://www.wikidata.org/wiki/Q96318632> <https://www.wikidata.org/wiki/Q4750898>)
+
+
+)

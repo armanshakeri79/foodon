@@ -464,7 +464,6 @@ NCIT
 
 http://purl.obolibrary.org/obo/NCIT_C25464 # country
 
-http://purl.obolibrary.org/obo/NCIT_C45305 # Mixture
 http://purl.obolibrary.org/obo/NCIT_C45298 # Liquid
 # http://purl.obolibrary.org/obo/NCIT_C80248 # Meal
 http://purl.obolibrary.org/obo/NCIT_C80249 # Breakfast

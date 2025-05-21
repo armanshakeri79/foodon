@@ -1,0 +1,172 @@
+subject_id	DRAFT ID (not imported yet)	subject_label	subject_category	predicate_id	object_id	object_label	mapping_justification	mapping_source	mapping_date	confidence	author_id	comment	See also	
+ID		AL rdfs:label@en			SC % SPLIT=|							AL rdfs:comment@en		
+											A dcterms:contributor SPLIT=|			
+wd:Q4750898		Capsicum annuum group 'New Mexico'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:4072	Capsicum annuum	ManualMappingCuration	https://w.wiki/D7XD	April 14,2025	1	https://orcid.org/0000-0002-8844-9165|https://orcid.org/0000-0002-4499-0451			
+wd:Q2003973		Capsicum annuum 'NuMex Big Jim’	cultivar - Wikidata	subclass of - Wikidata	wd:Q4750898	New Mexico chile	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q5503208		Capsicum annuum 'Fresno pepper'	cultivar - Wikidata	subclass of - Wikidata	wd:Q4750898	New Mexico chile	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q7067706		Capsicum annuum 'NuMex Twilight'	cultivar - Wikidata	subclass of - Wikidata	wd:Q4750898	New Mexico chile	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q33150947		Capsicum annuum 'Chimayó'	cultivar - Wikidata	subclass of - Wikidata	wd:Q4750898	New Mexico chile	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q85747085		Capsicum annuum 'Big Jim'	cultivar - Wikidata	subclass of - Wikidata	wd:Q4750898	New Mexico chile	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q85799513		Capsicum annuum ‘Sandia'	cultivar - Wikidata	subclass of - Wikidata	wd:Q4750898	New Mexico chile	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q96318632		Capsicum annuum ‘Anaheim'	cultivar - Wikidata	subclass of - Wikidata	wd:Q4750898	New Mexico chile	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q105560983		Capsicum annuum ‘New Mexico No. 9'	cultivar - Wikidata	subclass of - Wikidata	wd:Q4750898	New Mexico chile	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q109378984		Capsicum annuum ‘Española Improved’	cultivar - Wikidata	subclass of - Wikidata	wd:Q4750898	New Mexico chile	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+														
+wd:Q109122706		Solanum lycopersicum group 'Tomato'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:4081	Solanum lycopersicum	ManualMappingCuration	https://w.wiki/D7Wn	April 14,2025	1	https://orcid.org/0000-0002-8844-9165|https://orcid.org/0000-0002-4499-0451		https://en.wikipedia.org/wiki/List_of_tomato_cultivars	
+wd:Q3294493		Solanum lycopersicum 'Marmande'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q4832876		Solanum lycopersicum 'Azoychka'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q4921123		Solanum lycopersicum 'Black Krim'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q5092237		Solanum lycopersicum 'Cherokee Purple'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q5476268		Solanum lycopersicum 'Fourth of July'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q6760610		Solanum lycopersicum 'Marglobe'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q6929220		Solanum lycopersicum 'Mr. Stripey'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q16861014		Solanum lycopersicum 'Matt's Wild Cherry'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q25041950		Solanum lycopersicum 'Paul Robeson'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q25104845		Solanum lycopersicum 'Siberian'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q31838921		Solanum lycopersicum 'Sunviva'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q48814971		Solanum lycopersicum 'Jersey Boy'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q96195925		Solanum lycopersicum 'Vivagrande'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q106581429		Solanum lycopersicum 'Lukullus'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q116783079		Solanum lycopersicum 'Goose Creek'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+wd:Q127514380		Solanum lycopersicum 'Albenga'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+	wd:Q133843555	Solanum lycopersicum 'Annico'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+	wd:Q133843872	Solanum lycopersicum 'Zebrino'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+	wd:Q133844068	Solanum lycopersicum 'Tomimaru Muchoo'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		April 14,2025	1	https://orcid.org/0000-0002-8844-9165			
+	wd:Q134366571	Solanum lycopersicum 'Brioso'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366694	Solanum lycopersicum 'Gualdino'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366733	Solanum lycopersicum 'Ladoga'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366753	Solanum lycopersicum 'Piccolo'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366789	Solanum lycopersicum 'Picolino'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366809	Solanum lycopersicum 'Pinoso RZ'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134371427	Solanum lycopersicum 'Rugantino'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q133844518	Solanum lycopersicum 'Snowberry'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134470093	Solanum lycopersicum 'Damsel'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 20,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134470126	Solanum lycopersicum 'Moskovich'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 20,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134470157	Solanum lycopersicum 'Carbon' 	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 20,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134470198	Solanum lycopersicum 'Beefsteak'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 20,2025	1	https://orcid.org/0000-0003-3653-3805			
+														
+wd:Q110526701		Citrus group 'Citrus'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:2706	Citrus	ManualMappingCuration	https://w.wiki/D7fj	April 14,2025			There are many citrus cultivar groups, and underlying citrus fruits will evolve to be classified under them.	https://commons.wikimedia.org/wiki/Category:Citrus_(cultivars)	
+wd:Q3908544		Citrus 'kinnow'	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q4849788		Citrus 'Balady'	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q5057060		cedrate fruit	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q5173169		Corsican citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q5524494		Garut Orange fruit	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q5601907		Greek citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q6913112		Moroccan citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q7403210		komikan	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q8052143		Yemenite citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q11311156		Sweet Spring	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q12950778		Yuja	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q20686401		Dancy	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q125876541		Q125876541	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+														
+wd:Q133300398		Fragaria × ananassa group 'Strawberry'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:3747	Fragaria × ananassa	ManualMappingCuration	https://w.wiki/D7fP	April 14,2025					
+wd:Q133824919	wd:Q133824919	Q133824919	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q133824918	Q133824918	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q133824917	Q133824917	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132348380	Q132348380	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132348379	Q132348379	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132348377	Q132348377	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132348376	Q132348376	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132131314	Q132131314	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132131313	Q132131313	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132131312	Q132131312	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132131311	Amarin	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132131310	Q132131310	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132131309	Q132131309	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132131308	Q132131308	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q132131307	Q132131307	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q125296515	Q125296515	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q122506199	Q122506199	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q122506063	Q122506063	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q122411546	Fukuba ichigo	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q122411482	Red Pearl	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q122411460	Akihime	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q122363023	Yūbeni	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q120867049	Sagahonoka	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q120866961	Ichigosan	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q120755579	Toyonoka	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q120755574	Ai berry	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q120755569	Amaou	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q120755559	Sachinoka	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q117378534	Nyohō	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q113493387	Camino Real	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q113330811	Q113330811	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q112118337	Q112118337	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q111367528	Tochiotome	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q109361453	Tochiaika	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q97502021	Q97502021	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q97501888	Q97501888	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q97501883	Q97501883	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q97501876	Q97501876	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q97501871	Q97501871	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q97501867	Q97501867	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q97501826	Q97501826	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q55604853	Banner	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q31842328	Q31842328	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q20044215	Q20044215	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q17124648	Q17124648	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q15825061	Q15825061	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q6651867	Little Scarlet	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q1687907	Strasberry	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q1148021	Senga Sengana	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q45824	pineberry	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					
+	wd:Q134516308	Fragaria × ananassa 'Valiant'	cultivar - Wikidata	subclass of - Wikidata	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		May 20,2025		https://orcid.org/0000-0003-3653-3805			
+	wd:Q134519625	Fragaria × ananassa 'Royal royce'	cultivar - Wikidata	subclass of - Wikidata	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		May 20,2025		https://orcid.org/0000-0003-3653-3805			
+														
+		subject_label with no cultivar group												
+	wd:Q458243434	potato jsdfsdfsd			NCBITaxon:3747									
+														
+	wd:Q134270023	Camellia sinensis group 'Tea'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:4442	Camellia sinensis	ManualMappingCuration	https://w.wiki/E5qy	May 6,2025	1	https://orcid.org/0000-0001-5275-8866			
+	wd:Q133847884	Camellia sinensis 'Benifuuki'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134270023	Tea cultivar	ManualMappingCuration		May 6,2025	1	https://orcid.org/0000-0001-5275-8866			
+	wd:Q133847923	Camellia sinensis 'Yabukita'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134270023	Tea cultivar	ManualMappingCuration		May 6,2025	1	https://orcid.org/0000-0001-5275-8866			
+	wd:Q133847906	Camellia sinensis 'Saeakari'	subclass of - Wikidata	subclass of - Wikidata	wd:Q134270023	Tea cultivar	ManualMappingCuration		May 6,2025	1	https://orcid.org/0000-0001-5275-8866			
+														
+	wd:Q134519791	Oryza sativa group 'Rice'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:4530	Oryza sativa	ManualMappingCuration	https://w.wiki/EEUa	May 8,2025	1	https://orcid.org/0000-0001-5275-8866			
+	wd:Q2733021	Oryza sativa 'Jasmine	cultivar - Wikidata	subclass of - Wikidata	wd:Q134519791	Rice cultivar	ManualMappingCuration		May 8,2025	1	https://orcid.org/0000-0001-5275-8866			
+	wd:Q1204670	Oryza sativa 'Koshihikari	cultivar - Wikidata	subclass of - Wikidata	wd:Q134519791	Rice cultivar	ManualMappingCuration		May 8,2025	1	https://orcid.org/0000-0001-5275-8866			
+														
+	wd:Q16682342	Solanum tuberosum group 'Potato'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:4113	Solanum tuberosum	ManualMappingCuration	https://w.wiki/E5qx	May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134373608	Solanum tuberosum 'Azul Maqtillo'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134373710	Solanum tuberosum 'Azul Waña'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134373826	Solanum tuberosum 'Biot-764.006'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134373895	Solanum tuberosum 'BMC'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134374079	Solanum tuberosum 'CIP-Matilde'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134374426	Solanum tuberosum 'Cuchipa Ismaynin'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134403603	Solanum tuberosum 'Festien'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134403657	Solanum tuberosum 'Kallpa Yawri'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134403746	Solanum tuberosum 'Leona Negra'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134403835	Solanum tuberosum 'Novano'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 12,2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134446026	Solanum tuberosum 'Kuchipa akan'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134446042	Solanum tuberosum 'Puka yawri'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134446067	Solanum tuberosum 'Qeqorani'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134447370	Solanum tuberosum 'Saprodi'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134447389	Solanum tuberosum 'Seresta'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q133844446	Solanum tuberosum 'Tika Bole'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134513558	Solanum tuberosum 'Canela Russet'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134513661	Solanum tuberosum 'Purple Majesty'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134511441	Solanum tuberosum 'Yana Muru Pitiquina'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134511502	Solanum tuberosum 'Yana Pinquina'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134511315	Solanum tuberosum 'Hualla Cahqui	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134511315	Solanum tuberosum 'Jerga Maqtillo'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q133843945	Solanum tuberosum 'Yungay'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q133842295	Solanum tuberosum 'Altus'	cultivar - Wikidata	subclass of - Wikidata	wd:Q16682342	Potato cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134359169	Capsicum annuum group 'Pepper'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:4072	Capsicum annuum 	ManualMappingCuration	https://w.wiki/EETg	May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134358516	Capsicum annuum 'Chilaca'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134359087	Capsicum annuum 'Fireflame'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366350	Capsicum annuum 'Guero'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366406	Capsicum annuum 'Mathieu'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366418	Capsicum annuum 'Marvas'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366424	Capsicum annuum 'Nemezis'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134006476	Capsicum annuum 'Orangeflame'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366466	Capsicum annuum 'Pinokkio'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134366508	Capsicum annuum 'Pritavit'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134453342	Capsicum annuum 'Escamillo'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134453852	Capsicum annuum 'Early Perfect Italian'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134454263	Capsicum annuum 'Early Red'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134454321	Capsicum annuum 'Jedi'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd.Q134454400	Capsicum annuum 'Flavorburst'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134359169	Pepper cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134449035	Zea mays group 'Maize'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:4577	Zea mays	ManualMappingCuration	https://w.wiki/EEVT	May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q134449247	Zea mays 'cacahuazintle'	cultivar - Wikidata	subclass of - Wikidata	wd:Q134449035	Maize cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q27068180	Mangifera indica group 'Mango'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon_29780	Mangifera indica	ManualMappingCuration	https://w.wiki/EEVX	May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			
+	wd:Q4812898	Mangifera indica 'Ataulfo'	cultivar - Wikidata	subclass of - Wikidata	wd:Q27068180	Mango cultivar	ManualMappingCuration		May 20, 2025	1	https://orcid.org/0000-0003-3653-3805			

@@ -15,6 +15,18 @@ process.tsv
 seafood.tsv
 wine.tsv
 
+First, with Docker running the ODK container (agitated_zhukovsky, obolibrary/odkfull:latest), type the following to regenerate /src/ontology/foodon-full.owl 
+
+> sh run.sh make
+
+Example template command line runs:
+
+robot template --template sssom_taxonomy.tsv\
+  --prefix "dcterms:http://purl.org/dc/terms/" \
+  --prefix "wd:https://www.wikidata.org/wiki/"  \
+  --input "../../foodon-full.owl" \
+  --ontology-iri "http://purl.obolibrary.org/obo/foodon/imports/robot_sssom_taxonomy.ofn" \
+  --output ../robot_sssom_taxonomy.ofn
 
 robot template --template animals.tsv\
   --prefix "dcterms:http://purl.org/dc/terms/" \
