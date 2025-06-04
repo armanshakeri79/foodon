@@ -46,19 +46,19 @@ wd:Q127514380		Solanum lycopersicum 'Albenga'	cultivar - Wikidata	subclass of - 
 	wd:Q134470198	Solanum lycopersicum 'Beefsteak'	cultivar - Wikidata	subclass of - Wikidata	wd:Q109122706	Tomato cultivar	ManualMappingCuration		May 20,2025	1	https://orcid.org/0000-0003-3653-3805			
 														
 wd:Q110526701		Citrus group 'Citrus'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:2706	Citrus	ManualMappingCuration	https://w.wiki/D7fj	April 14,2025			There are many citrus cultivar groups, and underlying citrus fruits will evolve to be classified under them.	https://commons.wikimedia.org/wiki/Category:Citrus_(cultivars)	
-wd:Q3908544		Citrus 'kinnow'	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q4849788		Citrus 'Balady'	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q5057060		cedrate fruit	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q5173169		Corsican citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q5524494		Garut Orange fruit	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q5601907		Greek citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q6913112		Moroccan citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q7403210		komikan	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q8052143		Yemenite citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q11311156		Sweet Spring	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q12950778		Yuja	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q20686401		Dancy	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
-wd:Q125876541		Q125876541	cultivar - Wikidata	subclass of - Wikidata	wd:Q3908544	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q3908544		Citrus 'kinnow'	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q4849788		Citrus 'Balady'	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q5057060		cedrate fruit	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q5173169		Corsican citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q5524494		Garut Orange fruit	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q5601907		Greek citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q6913112		Moroccan citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q7403210		komikan	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q8052143		Yemenite citron	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q11311156		Sweet Spring	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q12950778		Yuja	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q20686401		Dancy	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
+wd:Q125876541		Q125876541	cultivar - Wikidata	subclass of - Wikidata	wd:Q110526701	Citrus cultivar	ManualMappingCuration		April 14,2025					
 														
 wd:Q133300398		Fragaria × ananassa group 'Strawberry'	cultivar group - Wikidata	skos:broadMatch	NCBITaxon:3747	Fragaria × ananassa	ManualMappingCuration	https://w.wiki/D7fP	April 14,2025					
 wd:Q133824919	wd:Q133824919	Q133824919	cultivar - Wikidata	instance of	wd:Q133300398	Strawberry cultivar	ManualMappingCuration		April 14,2025					

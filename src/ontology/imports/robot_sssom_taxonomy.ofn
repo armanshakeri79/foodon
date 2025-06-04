@@ -90,7 +90,7 @@ SubClassOf(<https://www.wikidata.org/wiki/Q110526701> <http://purl.obolibrary.or
 # Class: <https://www.wikidata.org/wiki/Q11311156> (Sweet Spring)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q11311156> "Sweet Spring"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q11311156> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q11311156> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q116783079> (Solanum lycopersicum 'Goose Creek')
 
@@ -100,7 +100,7 @@ SubClassOf(<https://www.wikidata.org/wiki/Q116783079> <https://www.wikidata.org/
 # Class: <https://www.wikidata.org/wiki/Q125876541> (Q125876541)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q125876541> "Q125876541"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q125876541> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q125876541> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q127514380> (Solanum lycopersicum 'Albenga')
 
@@ -110,7 +110,7 @@ SubClassOf(<https://www.wikidata.org/wiki/Q127514380> <https://www.wikidata.org/
 # Class: <https://www.wikidata.org/wiki/Q12950778> (Yuja)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q12950778> "Yuja"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q12950778> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q12950778> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q133300398> (Fragaria × ananassa group 'Strawberry')
 
@@ -135,7 +135,7 @@ SubClassOf(<https://www.wikidata.org/wiki/Q2003973> <https://www.wikidata.org/wi
 # Class: <https://www.wikidata.org/wiki/Q20686401> (Dancy)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q20686401> "Dancy"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q20686401> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q20686401> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q25041950> (Solanum lycopersicum 'Paul Robeson')
 
@@ -165,7 +165,7 @@ SubClassOf(<https://www.wikidata.org/wiki/Q33150947> <https://www.wikidata.org/w
 # Class: <https://www.wikidata.org/wiki/Q3908544> (Citrus 'kinnow')
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q3908544> "Citrus 'kinnow'"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q3908544> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q3908544> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q4750898> (Capsicum annuum group 'New Mexico')
 
@@ -180,7 +180,7 @@ SubClassOf(<https://www.wikidata.org/wiki/Q4832876> <https://www.wikidata.org/wi
 # Class: <https://www.wikidata.org/wiki/Q4849788> (Citrus 'Balady')
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q4849788> "Citrus 'Balady'"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q4849788> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q4849788> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q48814971> (Solanum lycopersicum 'Jersey Boy')
 
@@ -195,7 +195,7 @@ SubClassOf(<https://www.wikidata.org/wiki/Q4921123> <https://www.wikidata.org/wi
 # Class: <https://www.wikidata.org/wiki/Q5057060> (cedrate fruit)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5057060> "cedrate fruit"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q5057060> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q5057060> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q5092237> (Solanum lycopersicum 'Cherokee Purple')
 
@@ -205,7 +205,7 @@ SubClassOf(<https://www.wikidata.org/wiki/Q5092237> <https://www.wikidata.org/wi
 # Class: <https://www.wikidata.org/wiki/Q5173169> (Corsican citron)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5173169> "Corsican citron"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q5173169> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q5173169> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q5476268> (Solanum lycopersicum 'Fourth of July')
 
@@ -220,12 +220,12 @@ SubClassOf(<https://www.wikidata.org/wiki/Q5503208> <https://www.wikidata.org/wi
 # Class: <https://www.wikidata.org/wiki/Q5524494> (Garut Orange fruit)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5524494> "Garut Orange fruit"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q5524494> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q5524494> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q5601907> (Greek citron)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q5601907> "Greek citron"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q5601907> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q5601907> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q6760610> (Solanum lycopersicum 'Marglobe')
 
@@ -235,7 +235,7 @@ SubClassOf(<https://www.wikidata.org/wiki/Q6760610> <https://www.wikidata.org/wi
 # Class: <https://www.wikidata.org/wiki/Q6913112> (Moroccan citron)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q6913112> "Moroccan citron"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q6913112> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q6913112> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q6929220> (Solanum lycopersicum 'Mr. Stripey')
 
@@ -250,12 +250,12 @@ SubClassOf(<https://www.wikidata.org/wiki/Q7067706> <https://www.wikidata.org/wi
 # Class: <https://www.wikidata.org/wiki/Q7403210> (komikan)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q7403210> "komikan"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q7403210> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q7403210> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q8052143> (Yemenite citron)
 
 AnnotationAssertion(rdfs:label <https://www.wikidata.org/wiki/Q8052143> "Yemenite citron"@en)
-SubClassOf(<https://www.wikidata.org/wiki/Q8052143> <https://www.wikidata.org/wiki/Q3908544>)
+SubClassOf(<https://www.wikidata.org/wiki/Q8052143> <https://www.wikidata.org/wiki/Q110526701>)
 
 # Class: <https://www.wikidata.org/wiki/Q85747085> (Capsicum annuum 'Big Jim')
 
