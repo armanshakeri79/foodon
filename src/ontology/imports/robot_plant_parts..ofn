@@ -18251,25 +18251,25 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005653> 
 EquivalentClasses(<http://purl.obolibrary.org/obo/FOODON_00005653> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/FOODON_00005652> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000086> <http://purl.obolibrary.org/obo/FOODON_00004348>)))
 SubClassOf(<http://purl.obolibrary.org/obo/FOODON_00005653> <http://purl.obolibrary.org/obo/FOODON_00005652>)
 
-# Class: <http://purl.obolibrary.org/obo/FOODON_00005654> (gulupa fruit pulp)
+# Class: <http://purl.obolibrary.org/obo/FOODON_00005654> (gulupa pulp)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/FOODON_00005654> "The pulp of a gulupa fruit."@en)
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005654> "https://orcid.org/0000-0001-5275-8866")
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005654> "https://orcid.org/0000-0002-0995-0278")
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005654> "https://orcid.org/0000-0003-3653-3805")
 AnnotationAssertion(<http://purl.org/dc/terms/date> <http://purl.obolibrary.org/obo/FOODON_00005654> "2025-06-03T12:17:21Z"^^xsd:dateTime)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005654> "gulupa fruit pulp"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005654> "gulupa pulp"@en)
 EquivalentClasses(<http://purl.obolibrary.org/obo/FOODON_00005654> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/FOODON_03301109> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002162> <http://purl.obolibrary.org/obo/NCBITaxon_1510925>)))
 SubClassOf(<http://purl.obolibrary.org/obo/FOODON_00005654> <http://purl.obolibrary.org/obo/FOODON_00005651>)
 
-# Class: <http://purl.obolibrary.org/obo/FOODON_00005655> (gulupa fruit pulp (raw))
+# Class: <http://purl.obolibrary.org/obo/FOODON_00005655> (gulupa pulp (raw))
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/FOODON_00005655> "Gulupa fruit pulp that is raw."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/FOODON_00005655> "Gulupa pulp that is raw."@en)
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005655> "https://orcid.org/0000-0001-5275-8866")
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005655> "https://orcid.org/0000-0002-0995-0278")
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005655> "https://orcid.org/0000-0003-3653-3805")
 AnnotationAssertion(<http://purl.org/dc/terms/date> <http://purl.obolibrary.org/obo/FOODON_00005655> "2025-06-03T12:17:21Z"^^xsd:dateTime)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005655> "gulupa fruit pulp (raw)"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005655> "gulupa pulp (raw)"@en)
 EquivalentClasses(<http://purl.obolibrary.org/obo/FOODON_00005655> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/FOODON_00005654> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000086> <http://purl.obolibrary.org/obo/FOODON_00004348>)))
 SubClassOf(<http://purl.obolibrary.org/obo/FOODON_00005655> <http://purl.obolibrary.org/obo/FOODON_00005654>)
 
@@ -18284,14 +18284,14 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005656> 
 EquivalentClasses(<http://purl.obolibrary.org/obo/FOODON_00005656> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/FOODON_00004459> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002162> <http://purl.obolibrary.org/obo/NCBITaxon_1510925>)))
 SubClassOf(<http://purl.obolibrary.org/obo/FOODON_00005656> <http://purl.obolibrary.org/obo/FOODON_00005651>)
 
-# Class: <http://purl.obolibrary.org/obo/FOODON_00005657> (gulupa fruit peel (raw))
+# Class: <http://purl.obolibrary.org/obo/FOODON_00005657> (gulupa peel (raw))
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/FOODON_00005657> "A gulupa peel that is raw."@en)
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005657> "https://orcid.org/0000-0001-5275-8866")
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005657> "https://orcid.org/0000-0002-0995-0278")
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005657> "https://orcid.org/0000-0003-3653-3805")
 AnnotationAssertion(<http://purl.org/dc/terms/date> <http://purl.obolibrary.org/obo/FOODON_00005657> "2025-06-03T12:17:21Z"^^xsd:dateTime)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005657> "gulupa fruit peel (raw)"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005657> "gulupa peel (raw)"@en)
 EquivalentClasses(<http://purl.obolibrary.org/obo/FOODON_00005657> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/FOODON_00005656> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000086> <http://purl.obolibrary.org/obo/FOODON_00004348>)))
 SubClassOf(<http://purl.obolibrary.org/obo/FOODON_00005657> <http://purl.obolibrary.org/obo/FOODON_00005656>)
 
@@ -18306,14 +18306,14 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005658> 
 EquivalentClasses(<http://purl.obolibrary.org/obo/FOODON_00005658> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/PO_0009010> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002162> <http://purl.obolibrary.org/obo/NCBITaxon_1510925>)))
 SubClassOf(<http://purl.obolibrary.org/obo/FOODON_00005658> <http://purl.obolibrary.org/obo/FOODON_00005651>)
 
-# Class: <http://purl.obolibrary.org/obo/FOODON_00005659> (gulupa fruit seed (raw))
+# Class: <http://purl.obolibrary.org/obo/FOODON_00005659> (gulupa seed (raw))
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/FOODON_00005659> "A gulupa seed that is raw."@en)
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005659> "https://orcid.org/0000-0001-5275-8866")
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005659> "https://orcid.org/0000-0002-0995-0278")
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/FOODON_00005659> "https://orcid.org/0000-0003-3653-3805")
 AnnotationAssertion(<http://purl.org/dc/terms/date> <http://purl.obolibrary.org/obo/FOODON_00005659> "2025-06-03T12:17:21Z"^^xsd:dateTime)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005659> "gulupa fruit seed (raw)"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_00005659> "gulupa seed (raw)"@en)
 EquivalentClasses(<http://purl.obolibrary.org/obo/FOODON_00005659> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/FOODON_00005658> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000086> <http://purl.obolibrary.org/obo/FOODON_00004348>)))
 SubClassOf(<http://purl.obolibrary.org/obo/FOODON_00005659> <http://purl.obolibrary.org/obo/FOODON_00005658>)
 
