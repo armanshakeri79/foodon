@@ -241,7 +241,6 @@ Declaration(Class(obo:NCBITaxon_1156138))
 Declaration(Class(obo:NCBITaxon_115623))
 Declaration(Class(obo:NCBITaxon_115624))
 Declaration(Class(obo:NCBITaxon_115666))
-Declaration(Class(obo:NCBITaxon_1156757))
 Declaration(Class(obo:NCBITaxon_1156758))
 Declaration(Class(obo:NCBITaxon_115715))
 Declaration(Class(obo:NCBITaxon_115816))
@@ -340,7 +339,6 @@ Declaration(Class(obo:NCBITaxon_120490))
 Declaration(Class(obo:NCBITaxon_1206913))
 Declaration(Class(obo:NCBITaxon_1206914))
 Declaration(Class(obo:NCBITaxon_1208316))
-Declaration(Class(obo:NCBITaxon_121025))
 Declaration(Class(obo:NCBITaxon_121031))
 Declaration(Class(obo:NCBITaxon_121046))
 Declaration(Class(obo:NCBITaxon_121051))
@@ -743,6 +741,7 @@ Declaration(Class(obo:NCBITaxon_1510566))
 Declaration(Class(obo:NCBITaxon_1510567))
 Declaration(Class(obo:NCBITaxon_151069))
 Declaration(Class(obo:NCBITaxon_151071))
+Declaration(Class(obo:NCBITaxon_1510925))
 Declaration(Class(obo:NCBITaxon_151250))
 Declaration(Class(obo:NCBITaxon_151436))
 Declaration(Class(obo:NCBITaxon_151442))
@@ -775,7 +774,6 @@ Declaration(Class(obo:NCBITaxon_1548725))
 Declaration(Class(obo:NCBITaxon_154953))
 Declaration(Class(obo:NCBITaxon_154954))
 Declaration(Class(obo:NCBITaxon_1549675))
-Declaration(Class(obo:NCBITaxon_155054))
 Declaration(Class(obo:NCBITaxon_155067))
 Declaration(Class(obo:NCBITaxon_155124))
 Declaration(Class(obo:NCBITaxon_155231))
@@ -806,7 +804,10 @@ Declaration(Class(obo:NCBITaxon_1589896))
 Declaration(Class(obo:NCBITaxon_159030))
 Declaration(Class(obo:NCBITaxon_159053))
 Declaration(Class(obo:NCBITaxon_1592014))
+Declaration(Class(obo:NCBITaxon_1593263))
+Declaration(Class(obo:NCBITaxon_1593264))
 Declaration(Class(obo:NCBITaxon_159421))
+Declaration(Class(obo:NCBITaxon_159422))
 Declaration(Class(obo:NCBITaxon_159425))
 Declaration(Class(obo:NCBITaxon_15949))
 Declaration(Class(obo:NCBITaxon_159736))
@@ -1108,6 +1109,7 @@ Declaration(Class(obo:NCBITaxon_183657))
 Declaration(Class(obo:NCBITaxon_183824))
 Declaration(Class(obo:NCBITaxon_1838260))
 Declaration(Class(obo:NCBITaxon_184140))
+Declaration(Class(obo:NCBITaxon_184141))
 Declaration(Class(obo:NCBITaxon_184215))
 Declaration(Class(obo:NCBITaxon_1843298))
 Declaration(Class(obo:NCBITaxon_184439))
@@ -1153,7 +1155,6 @@ Declaration(Class(obo:NCBITaxon_188103))
 Declaration(Class(obo:NCBITaxon_188107))
 Declaration(Class(obo:NCBITaxon_188110))
 Declaration(Class(obo:NCBITaxon_188112))
-Declaration(Class(obo:NCBITaxon_1885021))
 Declaration(Class(obo:NCBITaxon_1885027))
 Declaration(Class(obo:NCBITaxon_189212))
 Declaration(Class(obo:NCBITaxon_189389))
@@ -1169,7 +1170,6 @@ Declaration(Class(obo:NCBITaxon_1906136))
 Declaration(Class(obo:NCBITaxon_190902))
 Declaration(Class(obo:NCBITaxon_191066))
 Declaration(Class(obo:NCBITaxon_1910901))
-Declaration(Class(obo:NCBITaxon_1913631))
 Declaration(Class(obo:NCBITaxon_191678))
 Declaration(Class(obo:NCBITaxon_1916796))
 Declaration(Class(obo:NCBITaxon_191812))
@@ -1636,7 +1636,6 @@ Declaration(Class(obo:NCBITaxon_255556))
 Declaration(Class(obo:NCBITaxon_255560))
 Declaration(Class(obo:NCBITaxon_255570))
 Declaration(Class(obo:NCBITaxon_2556126))
-Declaration(Class(obo:NCBITaxon_2558045))
 Declaration(Class(obo:NCBITaxon_255893))
 Declaration(Class(obo:NCBITaxon_25641))
 Declaration(Class(obo:NCBITaxon_256424))
@@ -1745,7 +1744,6 @@ Declaration(Class(obo:NCBITaxon_27405))
 Declaration(Class(obo:NCBITaxon_27406))
 Declaration(Class(obo:NCBITaxon_2743694))
 Declaration(Class(obo:NCBITaxon_2743697))
-Declaration(Class(obo:NCBITaxon_2743701))
 Declaration(Class(obo:NCBITaxon_2743705))
 Declaration(Class(obo:NCBITaxon_2743709))
 Declaration(Class(obo:NCBITaxon_2743726))
@@ -1849,9 +1847,6 @@ Declaration(Class(obo:NCBITaxon_28379))
 Declaration(Class(obo:NCBITaxon_28380))
 Declaration(Class(obo:NCBITaxon_28381))
 Declaration(Class(obo:NCBITaxon_2838337))
-Declaration(Class(obo:NCBITaxon_2838338))
-Declaration(Class(obo:NCBITaxon_2838339))
-Declaration(Class(obo:NCBITaxon_2838340))
 Declaration(Class(obo:NCBITaxon_2838341))
 Declaration(Class(obo:NCBITaxon_2838343))
 Declaration(Class(obo:NCBITaxon_2838349))
@@ -1974,7 +1969,6 @@ Declaration(Class(obo:NCBITaxon_300346))
 Declaration(Class(obo:NCBITaxon_300414))
 Declaration(Class(obo:NCBITaxon_300415))
 Declaration(Class(obo:NCBITaxon_30062))
-Declaration(Class(obo:NCBITaxon_300795))
 Declaration(Class(obo:NCBITaxon_3009))
 Declaration(Class(obo:NCBITaxon_30092))
 Declaration(Class(obo:NCBITaxon_300936))
@@ -2383,6 +2377,7 @@ Declaration(Class(obo:NCBITaxon_337730))
 Declaration(Class(obo:NCBITaxon_337745))
 Declaration(Class(obo:NCBITaxon_33789))
 Declaration(Class(obo:NCBITaxon_3379))
+Declaration(Class(obo:NCBITaxon_3379134))
 Declaration(Class(obo:NCBITaxon_3380))
 Declaration(Class(obo:NCBITaxon_3382))
 Declaration(Class(obo:NCBITaxon_338210))
@@ -2412,7 +2407,6 @@ Declaration(Class(obo:NCBITaxon_3438))
 Declaration(Class(obo:NCBITaxon_3440))
 Declaration(Class(obo:NCBITaxon_34428))
 Declaration(Class(obo:NCBITaxon_34444))
-Declaration(Class(obo:NCBITaxon_34467))
 Declaration(Class(obo:NCBITaxon_344680))
 Declaration(Class(obo:NCBITaxon_34470))
 Declaration(Class(obo:NCBITaxon_3449))
@@ -2511,6 +2505,7 @@ Declaration(Class(obo:NCBITaxon_35500))
 Declaration(Class(obo:NCBITaxon_3555))
 Declaration(Class(obo:NCBITaxon_355514))
 Declaration(Class(obo:NCBITaxon_355688))
+Declaration(Class(obo:NCBITaxon_355741))
 Declaration(Class(obo:NCBITaxon_35578))
 Declaration(Class(obo:NCBITaxon_35579))
 Declaration(Class(obo:NCBITaxon_3558))
@@ -2543,7 +2538,6 @@ Declaration(Class(obo:NCBITaxon_360510))
 Declaration(Class(obo:NCBITaxon_360518))
 Declaration(Class(obo:NCBITaxon_360519))
 Declaration(Class(obo:NCBITaxon_36056))
-Declaration(Class(obo:NCBITaxon_36064))
 Declaration(Class(obo:NCBITaxon_36065))
 Declaration(Class(obo:NCBITaxon_36066))
 Declaration(Class(obo:NCBITaxon_3608))
@@ -3481,7 +3475,6 @@ Declaration(Class(obo:NCBITaxon_49198))
 Declaration(Class(obo:NCBITaxon_492021))
 Declaration(Class(obo:NCBITaxon_492024))
 Declaration(Class(obo:NCBITaxon_492050))
-Declaration(Class(obo:NCBITaxon_492052))
 Declaration(Class(obo:NCBITaxon_49212))
 Declaration(Class(obo:NCBITaxon_49225))
 Declaration(Class(obo:NCBITaxon_49266))
@@ -3693,7 +3686,6 @@ Declaration(Class(obo:NCBITaxon_549457))
 Declaration(Class(obo:NCBITaxon_549588))
 Declaration(Class(obo:NCBITaxon_54986))
 Declaration(Class(obo:NCBITaxon_54989))
-Declaration(Class(obo:NCBITaxon_55048))
 Declaration(Class(obo:NCBITaxon_55111))
 Declaration(Class(obo:NCBITaxon_55118))
 Declaration(Class(obo:NCBITaxon_55119))
@@ -3771,7 +3763,6 @@ Declaration(Class(obo:NCBITaxon_571814))
 Declaration(Class(obo:NCBITaxon_57192))
 Declaration(Class(obo:NCBITaxon_57197))
 Declaration(Class(obo:NCBITaxon_57200))
-Declaration(Class(obo:NCBITaxon_57201))
 Declaration(Class(obo:NCBITaxon_57538))
 Declaration(Class(obo:NCBITaxon_57576))
 Declaration(Class(obo:NCBITaxon_57577))
@@ -3940,7 +3931,6 @@ Declaration(Class(obo:NCBITaxon_642567))
 Declaration(Class(obo:NCBITaxon_64278))
 Declaration(Class(obo:NCBITaxon_642922))
 Declaration(Class(obo:NCBITaxon_643366))
-Declaration(Class(obo:NCBITaxon_643373))
 Declaration(Class(obo:NCBITaxon_643419))
 Declaration(Class(obo:NCBITaxon_643729))
 Declaration(Class(obo:NCBITaxon_644113))
@@ -3964,8 +3954,8 @@ Declaration(Class(obo:NCBITaxon_6457))
 Declaration(Class(obo:NCBITaxon_6458))
 Declaration(Class(obo:NCBITaxon_64580))
 Declaration(Class(obo:NCBITaxon_6459))
-Declaration(Class(obo:NCBITaxon_64608))
 Declaration(Class(obo:NCBITaxon_64657))
+Declaration(Class(obo:NCBITaxon_64659))
 Declaration(Class(obo:NCBITaxon_6466))
 Declaration(Class(obo:NCBITaxon_64660))
 Declaration(Class(obo:NCBITaxon_6470))
@@ -4176,6 +4166,7 @@ Declaration(Class(obo:NCBITaxon_68520))
 Declaration(Class(obo:NCBITaxon_68535))
 Declaration(Class(obo:NCBITaxon_685728))
 Declaration(Class(obo:NCBITaxon_686570))
+Declaration(Class(obo:NCBITaxon_68758))
 Declaration(Class(obo:NCBITaxon_68759))
 Declaration(Class(obo:NCBITaxon_68889))
 Declaration(Class(obo:NCBITaxon_690869))
@@ -4733,6 +4724,7 @@ Declaration(Class(obo:NCBITaxon_8235))
 Declaration(Class(obo:NCBITaxon_8236))
 Declaration(Class(obo:NCBITaxon_8237))
 Declaration(Class(obo:NCBITaxon_8238))
+Declaration(Class(obo:NCBITaxon_82384))
 Declaration(Class(obo:NCBITaxon_8240))
 Declaration(Class(obo:NCBITaxon_82407))
 Declaration(Class(obo:NCBITaxon_8241))
@@ -5087,7 +5079,6 @@ Declaration(Class(obo:NCBITaxon_9647))
 Declaration(Class(obo:NCBITaxon_96479))
 Declaration(Class(obo:NCBITaxon_9653))
 Declaration(Class(obo:NCBITaxon_9654))
-Declaration(Class(obo:NCBITaxon_9655))
 Declaration(Class(obo:NCBITaxon_96776))
 Declaration(Class(obo:NCBITaxon_96777))
 Declaration(Class(obo:NCBITaxon_96778))
@@ -6824,18 +6815,12 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_115666 "African eggpl
 AnnotationAssertion(rdfs:label obo:NCBITaxon_115666 "Solanum macrocarpon")
 SubClassOf(obo:NCBITaxon_115666 obo:NCBITaxon_4107)
 
-# Class: obo:NCBITaxon_1156757 (Colistium)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1156757 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_1156757 "Colistium")
-SubClassOf(obo:NCBITaxon_1156757 obo:NCBITaxon_490374)
-
 # Class: obo:NCBITaxon_1156758 (Colistium nudipinnis)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1156758 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_1156758 "New Zealand turbot")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_1156758 "Colistium nudipinnis")
-SubClassOf(obo:NCBITaxon_1156758 obo:NCBITaxon_1156757)
+SubClassOf(obo:NCBITaxon_1156758 obo:NCBITaxon_490374)
 
 # Class: obo:NCBITaxon_115715 (Vigna subterranea)
 
@@ -7505,13 +7490,6 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1208316 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_1208316 "Hyporthodus")
 SubClassOf(obo:NCBITaxon_1208316 obo:NCBITaxon_1505891)
 
-# Class: obo:NCBITaxon_121025 (Arca imbricata)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_121025 obo:ncbitaxon.owl)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_121025 "mossy ark")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_121025 "Arca imbricata")
-SubClassOf(obo:NCBITaxon_121025 obo:NCBITaxon_44596)
-
 # Class: obo:NCBITaxon_121031 (Barbatia domingensis)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_121031 obo:ncbitaxon.owl)
@@ -7668,7 +7646,7 @@ SubClassOf(obo:NCBITaxon_122399 obo:NCBITaxon_3536)
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1224 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_1224 "purple photosynthetic bacteria and relatives")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_1224 "Pseudomonadota")
-SubClassOf(obo:NCBITaxon_1224 obo:NCBITaxon_2)
+SubClassOf(obo:NCBITaxon_1224 obo:NCBITaxon_3379134)
 
 # Class: obo:NCBITaxon_1227136 (Pachypterus)
 
@@ -8853,7 +8831,7 @@ SubClassOf(obo:NCBITaxon_13587 obo:NCBITaxon_27767)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_136 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_136 "Spirochaetales")
-SubClassOf(obo:NCBITaxon_136 obo:NCBITaxon_2)
+SubClassOf(obo:NCBITaxon_136 obo:NCBITaxon_3379134)
 
 # Class: obo:NCBITaxon_13602 (Makaira)
 
@@ -10219,6 +10197,12 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_151071 "rambutan")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_151071 "Nephelium lappaceum")
 SubClassOf(obo:NCBITaxon_151071 obo:NCBITaxon_23672)
 
+# Class: obo:NCBITaxon_1510925 (Passiflora pinnatistipula)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1510925 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_1510925 "Passiflora pinnatistipula")
+SubClassOf(obo:NCBITaxon_1510925 obo:NCBITaxon_3684)
+
 # Class: obo:NCBITaxon_151250 (Kali turgidum)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_151250 obo:ncbitaxon.owl)
@@ -10432,13 +10416,6 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1549675 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_1549675 "Galloanserae")
 SubClassOf(obo:NCBITaxon_1549675 obo:NCBITaxon_8825)
 
-# Class: obo:NCBITaxon_155054 (Budorcas taxicolor tibetana)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_155054 obo:ncbitaxon.owl)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_155054 "Sichuan takin")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_155054 "Budorcas taxicolor tibetana")
-SubClassOf(obo:NCBITaxon_155054 obo:NCBITaxon_9963)
-
 # Class: obo:NCBITaxon_155067 (Vimba vimba)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_155067 obo:ncbitaxon.owl)
@@ -10642,11 +10619,29 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1592014 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_1592014 "Mangifera minor")
 SubClassOf(obo:NCBITaxon_1592014 obo:NCBITaxon_23461)
 
+# Class: obo:NCBITaxon_1593263 (Cyclocybe)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1593263 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_1593263 "Cyclocybe")
+SubClassOf(obo:NCBITaxon_1593263 obo:NCBITaxon_2982305)
+
+# Class: obo:NCBITaxon_1593264 (Cyclocybe cylindracea)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1593264 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_1593264 "Cyclocybe cylindracea")
+SubClassOf(obo:NCBITaxon_1593264 obo:NCBITaxon_1593263)
+
 # Class: obo:NCBITaxon_159421 (Passiflora foetida)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_159421 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_159421 "Passiflora foetida")
 SubClassOf(obo:NCBITaxon_159421 obo:NCBITaxon_3684)
+
+# Class: obo:NCBITaxon_159422 (Passiflora alata)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_159422 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_159422 "Passiflora alata")
+SubClassOf(obo:NCBITaxon_159422 obo:NCBITaxon_3684)
 
 # Class: obo:NCBITaxon_159425 (Passiflora incarnata)
 
@@ -12006,11 +12001,11 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_174405 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_174405 "Paralomis granulosa")
 SubClassOf(obo:NCBITaxon_174405 obo:NCBITaxon_6739)
 
-# Class: obo:NCBITaxon_174549 (Polygala senega)
+# Class: obo:NCBITaxon_174549 (Senega officinalis)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_174549 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_174549 "Seneca snakeroot")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_174549 "Polygala senega")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_174549 "Senega officinalis")
 SubClassOf(obo:NCBITaxon_174549 obo:NCBITaxon_4274)
 
 # Class: obo:NCBITaxon_175193 (Ribes divaricatum)
@@ -12488,6 +12483,7 @@ SubClassOf(obo:NCBITaxon_182431 obo:NCBITaxon_182430)
 # Class: obo:NCBITaxon_182632 (Boletus reticulatus)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_182632 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_182632 "summer bolete")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_182632 "Boletus reticulatus")
 SubClassOf(obo:NCBITaxon_182632 obo:NCBITaxon_5369)
 
@@ -12687,6 +12683,16 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_184140 "christophine"
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_184140 "pipinela")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_184140 "Sicyos edulis")
 SubClassOf(obo:NCBITaxon_184140 obo:NCBITaxon_1003875)
+
+# Class: obo:NCBITaxon_184141 (Cucurbita melopepo subsp. melopepo)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_184141 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_184141 "acorn squash")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_184141 "ornamental gourd")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_184141 "pattypan squash")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_184141 "summer crookneck squash")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_184141 "Cucurbita melopepo subsp. melopepo")
+SubClassOf(obo:NCBITaxon_184141 obo:NCBITaxon_3660)
 
 # Class: obo:NCBITaxon_184215 (Ammodytes americanus)
 
@@ -12986,12 +12992,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_188112 "Caroline's pa
 AnnotationAssertion(rdfs:label obo:NCBITaxon_188112 "Calotomus carolinus")
 SubClassOf(obo:NCBITaxon_188112 obo:NCBITaxon_3043427)
 
-# Class: obo:NCBITaxon_1885021 (Beringraja)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1885021 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_1885021 "Beringraja")
-SubClassOf(obo:NCBITaxon_1885021 obo:NCBITaxon_30475)
-
 # Class: obo:NCBITaxon_1885027 (Morone saxatilis x Morone chrysops)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1885027 obo:ncbitaxon.owl)
@@ -13095,12 +13095,6 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1910901 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_1910901 "Gorean snapper")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_1910901 "Lutjanus goreensis")
 SubClassOf(obo:NCBITaxon_1910901 obo:NCBITaxon_40493)
-
-# Class: obo:NCBITaxon_1913631 (Colistium guntheri)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1913631 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_1913631 "Colistium guntheri")
-SubClassOf(obo:NCBITaxon_1913631 obo:NCBITaxon_1156757)
 
 # Class: obo:NCBITaxon_191678 (Lophius budegassa)
 
@@ -13474,7 +13468,7 @@ SubClassOf(obo:NCBITaxon_197266 obo:NCBITaxon_197265)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1973307 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_1973307 "Cyclocybe aegerita")
-SubClassOf(obo:NCBITaxon_1973307 obo:NCBITaxon_2982305)
+SubClassOf(obo:NCBITaxon_1973307 obo:NCBITaxon_1593263)
 
 # Class: obo:NCBITaxon_197541 (Saurida elongata)
 
@@ -13670,6 +13664,7 @@ SubClassOf(obo:NCBITaxon_201017 obo:NCBITaxon_43707)
 # Class: obo:NCBITaxon_201217 (Leucoagaricus leucothites)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_201217 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_201217 "white dapperling")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_201217 "Leucoagaricus leucothites")
 SubClassOf(obo:NCBITaxon_201217 obo:NCBITaxon_5339)
 
@@ -16208,12 +16203,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2556126 "giant gamba 
 AnnotationAssertion(rdfs:label obo:NCBITaxon_2556126 "Aristaeomorpha foliacea")
 SubClassOf(obo:NCBITaxon_2556126 obo:NCBITaxon_111520)
 
-# Class: obo:NCBITaxon_2558045 (Phallus duplicatus)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_2558045 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_2558045 "Phallus duplicatus")
-SubClassOf(obo:NCBITaxon_2558045 obo:NCBITaxon_155619)
-
 # Class: obo:NCBITaxon_255893 (Eremophila <eudicots>)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_255893 obo:ncbitaxon.owl)
@@ -16690,7 +16679,7 @@ SubClassOf(obo:NCBITaxon_2696657 obo:NCBITaxon_70846)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_270004 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_270004 "Barbonymus")
-SubClassOf(obo:NCBITaxon_270004 obo:NCBITaxon_2743701)
+SubClassOf(obo:NCBITaxon_270004 obo:NCBITaxon_7953)
 
 # Class: obo:NCBITaxon_270110 (Cochlearia officinalis)
 
@@ -16822,6 +16811,8 @@ SubClassOf(obo:NCBITaxon_2708 obo:NCBITaxon_2706)
 # Class: obo:NCBITaxon_2711 (Citrus sinensis)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_2711 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2711 "Citrus maxima x Citrus reticulata")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2711 "Citrus x sinensis")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2711 "Valencia orange")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2711 "apfelsine")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2711 "naranja")
@@ -16956,12 +16947,6 @@ SubClassOf(obo:NCBITaxon_2743694 obo:NCBITaxon_7953)
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_2743697 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_2743697 "Labeonini")
 SubClassOf(obo:NCBITaxon_2743697 obo:NCBITaxon_7953)
-
-# Class: obo:NCBITaxon_2743701 ('Poropuntiinae')
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_2743701 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_2743701 "'Poropuntiinae'")
-SubClassOf(obo:NCBITaxon_2743701 obo:NCBITaxon_7953)
 
 # Class: obo:NCBITaxon_2743705 (Smiliogastrinae)
 
@@ -17645,28 +17630,7 @@ SubClassOf(obo:NCBITaxon_28381 obo:NCBITaxon_28380)
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_2838337 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2838337 "big skate")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_2838337 "Beringraja binoculata")
-SubClassOf(obo:NCBITaxon_2838337 obo:NCBITaxon_1885021)
-
-# Class: obo:NCBITaxon_2838338 (Beringraja rhina)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_2838338 obo:ncbitaxon.owl)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2838338 "longnose skate")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_2838338 "Beringraja rhina")
-SubClassOf(obo:NCBITaxon_2838338 obo:NCBITaxon_1885021)
-
-# Class: obo:NCBITaxon_2838339 (Beringraja inornata)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_2838339 obo:ncbitaxon.owl)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2838339 "California ray")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_2838339 "Beringraja inornata")
-SubClassOf(obo:NCBITaxon_2838339 obo:NCBITaxon_1885021)
-
-# Class: obo:NCBITaxon_2838340 (Beringraja stellulata)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_2838340 obo:ncbitaxon.owl)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_2838340 "starry skate")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_2838340 "Beringraja stellulata")
-SubClassOf(obo:NCBITaxon_2838340 obo:NCBITaxon_1885021)
+SubClassOf(obo:NCBITaxon_2838337 obo:NCBITaxon_30475)
 
 # Class: obo:NCBITaxon_2838341 (Phanerodon vacca)
 
@@ -18494,16 +18458,6 @@ SubClassOf(obo:NCBITaxon_300415 obo:NCBITaxon_300414)
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_30062 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_30062 "Anthomyiidae")
 SubClassOf(obo:NCBITaxon_30062 obo:NCBITaxon_43742)
-
-# Class: obo:NCBITaxon_300795 (Cucurbita pepo var. ovifera)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_300795 obo:ncbitaxon.owl)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_300795 "acorn squash")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_300795 "ornamental gourd")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_300795 "pattypan squash")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_300795 "summer crookneck squash")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_300795 "Cucurbita pepo var. ovifera")
-SubClassOf(obo:NCBITaxon_300795 obo:NCBITaxon_3663)
 
 # Class: obo:NCBITaxon_3009 (Fucales)
 
@@ -19764,12 +19718,12 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_31208 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_31208 "Tresus capax")
 SubClassOf(obo:NCBITaxon_31208 obo:NCBITaxon_31207)
 
-# Class: obo:NCBITaxon_31210 (Sepia esculenta)
+# Class: obo:NCBITaxon_31210 (Acanthosepion esculentum)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_31210 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_31210 "golden cuttlefish")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_31210 "Sepia esculenta")
-SubClassOf(obo:NCBITaxon_31210 obo:NCBITaxon_6609)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_31210 "Acanthosepion esculentum")
+SubClassOf(obo:NCBITaxon_31210 obo:NCBITaxon_6608)
 
 # Class: obo:NCBITaxon_31212 (Littorinidae)
 
@@ -21295,6 +21249,12 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3379 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_3379 "Gnetaceae")
 SubClassOf(obo:NCBITaxon_3379 obo:NCBITaxon_1437180)
 
+# Class: obo:NCBITaxon_3379134 (Pseudomonadati)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3379134 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_3379134 "Pseudomonadati")
+SubClassOf(obo:NCBITaxon_3379134 obo:NCBITaxon_2)
+
 # Class: obo:NCBITaxon_3380 (Gnetum)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3380 obo:ncbitaxon.owl)
@@ -21495,12 +21455,6 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_34444 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_34444 "Lactarius")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_34444 "Lactarius <basidiomycete fungi>")
 SubClassOf(obo:NCBITaxon_34444 obo:NCBITaxon_452342)
-
-# Class: obo:NCBITaxon_34467 (Ganoderma tsugae)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_34467 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_34467 "Ganoderma tsugae")
-SubClassOf(obo:NCBITaxon_34467 obo:NCBITaxon_5314)
 
 # Class: obo:NCBITaxon_344680 (Brassica rapa var. perviridis)
 
@@ -22170,6 +22124,12 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_355688 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_355688 "Agaricomycetes incertae sedis")
 SubClassOf(obo:NCBITaxon_355688 obo:NCBITaxon_155619)
 
+# Class: obo:NCBITaxon_355741 (Dictyophora duplicata)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_355741 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_355741 "Dictyophora duplicata")
+SubClassOf(obo:NCBITaxon_355741 obo:NCBITaxon_155619)
+
 # Class: obo:NCBITaxon_35578 (Stenotomus)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_35578 obo:ncbitaxon.owl)
@@ -22406,17 +22366,11 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_36056 "king bolete")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_36056 "Boletus edulis")
 SubClassOf(obo:NCBITaxon_36056 obo:NCBITaxon_5369)
 
-# Class: obo:NCBITaxon_36064 (Cantharellales)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_36064 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_36064 "Cantharellales")
-SubClassOf(obo:NCBITaxon_36064 obo:NCBITaxon_355688)
-
 # Class: obo:NCBITaxon_36065 (Cantharellus)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_36065 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_36065 "Cantharellus")
-SubClassOf(obo:NCBITaxon_36065 obo:NCBITaxon_57201)
+SubClassOf(obo:NCBITaxon_36065 obo:NCBITaxon_68758)
 
 # Class: obo:NCBITaxon_36066 (Cantharellus cibarius)
 
@@ -22955,12 +22909,14 @@ SubClassOf(obo:NCBITaxon_3663 obo:NCBITaxon_3660)
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3664 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3664 "field pumpkin")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3664 "vegetable marrow")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3664 "zucchini")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_3664 "Cucurbita pepo subsp. pepo")
 SubClassOf(obo:NCBITaxon_3664 obo:NCBITaxon_3663)
 
 # Class: obo:NCBITaxon_36659 (Volvariella volvacea)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_36659 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_36659 "paddy straw mushroom")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_36659 "Volvariella volvacea")
 SubClassOf(obo:NCBITaxon_36659 obo:NCBITaxon_2982306)
 
@@ -23069,12 +23025,12 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3688 "willow family")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_3688 "Salicaceae")
 SubClassOf(obo:NCBITaxon_3688 obo:NCBITaxon_3646)
 
-# Class: obo:NCBITaxon_36930 (Saccostrea cucullata)
+# Class: obo:NCBITaxon_36930 (Saccostrea cuccullata)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_36930 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_36930 "Saccostrea cuccullata sensu strictu")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_36930 "small rock oyster")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_36930 "Saccostrea cucullata")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_36930 "Saccostrea cuccullata")
 SubClassOf(obo:NCBITaxon_36930 obo:NCBITaxon_6563)
 
 # Class: obo:NCBITaxon_3699 (Brassicales)
@@ -28936,12 +28892,6 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_492050 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_492050 "Xenodermichthys")
 SubClassOf(obo:NCBITaxon_492050 obo:NCBITaxon_134615)
 
-# Class: obo:NCBITaxon_492052 (Clitocybe nuda)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_492052 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_492052 "Clitocybe nuda")
-SubClassOf(obo:NCBITaxon_492052 obo:NCBITaxon_2982168)
-
 # Class: obo:NCBITaxon_49212 (Salvia hispanica)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_49212 obo:ncbitaxon.owl)
@@ -29463,6 +29413,7 @@ SubClassOf(obo:NCBITaxon_51239 obo:NCBITaxon_51238)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_51240 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_51240 "English walnut")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_51240 "Persian walnut")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_51240 "Juglans regia")
 SubClassOf(obo:NCBITaxon_51240 obo:NCBITaxon_16718)
 
@@ -30004,9 +29955,9 @@ SubClassOf(obo:NCBITaxon_5340 obo:NCBITaxon_5339)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_5341 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_5341 "Agaricus bisporus var. albidus (nom. inval.)")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_5341 "button mushroom")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_5341 "common mushroom")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_5341 "cultivated mushroom")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_5341 "white button mushroom")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_5341 "Agaricus bisporus")
 SubClassOf(obo:NCBITaxon_5341 obo:NCBITaxon_5340)
 
@@ -30358,13 +30309,6 @@ SubClassOf(obo:NCBITaxon_54986 obo:NCBITaxon_2315723)
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_54989 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_54989 "Diodora aspera")
 SubClassOf(obo:NCBITaxon_54989 obo:NCBITaxon_54986)
-
-# Class: obo:NCBITaxon_55048 (Mustela frenata)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_55048 obo:ncbitaxon.owl)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_55048 "long-tailed weasel")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_55048 "Mustela frenata")
-SubClassOf(obo:NCBITaxon_55048 obo:NCBITaxon_9655)
 
 # Class: obo:NCBITaxon_55111 (Notacanthidae)
 
@@ -30849,7 +30793,7 @@ SubClassOf(obo:NCBITaxon_57071 obo:NCBITaxon_59755)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_57133 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_57133 "Hydnum")
-SubClassOf(obo:NCBITaxon_57133 obo:NCBITaxon_36064)
+SubClassOf(obo:NCBITaxon_57133 obo:NCBITaxon_68758)
 
 # Class: obo:NCBITaxon_571675 (Kunzea pomifera)
 
@@ -30873,19 +30817,13 @@ SubClassOf(obo:NCBITaxon_57192 obo:NCBITaxon_5369)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_57197 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_57197 "Craterellus")
-SubClassOf(obo:NCBITaxon_57197 obo:NCBITaxon_57201)
+SubClassOf(obo:NCBITaxon_57197 obo:NCBITaxon_68758)
 
 # Class: obo:NCBITaxon_57200 (Craterellus tubaeformis)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_57200 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_57200 "Craterellus tubaeformis")
 SubClassOf(obo:NCBITaxon_57200 obo:NCBITaxon_57197)
-
-# Class: obo:NCBITaxon_57201 (Cantharellaceae)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_57201 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_57201 "Cantharellaceae")
-SubClassOf(obo:NCBITaxon_57201 obo:NCBITaxon_36064)
 
 # Class: obo:NCBITaxon_57538 (Vaccinium meridionale)
 
@@ -31663,7 +31601,7 @@ SubClassOf(obo:NCBITaxon_61674 obo:NCBITaxon_7901)
 # Class: obo:NCBITaxon_61679 (Ommastrephes bartramii)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_61679 obo:ncbitaxon.owl)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_61679 "red flying squid")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_61679 "neon flying squid")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_61679 "Ommastrephes bartramii")
 SubClassOf(obo:NCBITaxon_61679 obo:NCBITaxon_6626)
 
@@ -32021,12 +31959,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_643366 "small scale m
 AnnotationAssertion(rdfs:label obo:NCBITaxon_643366 "Cirrhinus microlepis")
 SubClassOf(obo:NCBITaxon_643366 obo:NCBITaxon_59897)
 
-# Class: obo:NCBITaxon_643373 (Cyclocheilichthys enoplos)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_643373 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_643373 "Cyclocheilichthys enoplos")
-SubClassOf(obo:NCBITaxon_643373 obo:NCBITaxon_2743701)
-
 # Class: obo:NCBITaxon_643419 (Catlocarpio siamensis)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_643419 obo:ncbitaxon.owl)
@@ -32183,18 +32115,19 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_6459 "flat abalone")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_6459 "Haliotis walallensis")
 SubClassOf(obo:NCBITaxon_6459 obo:NCBITaxon_6452)
 
-# Class: obo:NCBITaxon_64608 (Agrocybe cylindracea)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_64608 obo:ncbitaxon.owl)
-AnnotationAssertion(rdfs:label obo:NCBITaxon_64608 "Agrocybe cylindracea")
-SubClassOf(obo:NCBITaxon_64608 obo:NCBITaxon_40562)
-
 # Class: obo:NCBITaxon_64657 (Tremella fuciformis)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_64657 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_64657 "snow fungus")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_64657 "Tremella fuciformis")
 SubClassOf(obo:NCBITaxon_64657 obo:NCBITaxon_105767)
+
+# Class: obo:NCBITaxon_64659 (Collybia nuda)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_64659 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_64659 "wood blewit")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_64659 "Collybia nuda")
+SubClassOf(obo:NCBITaxon_64659 obo:NCBITaxon_2982168)
 
 # Class: obo:NCBITaxon_6466 (Trochidae)
 
@@ -33525,6 +33458,7 @@ SubClassOf(obo:NCBITaxon_6818 obo:NCBITaxon_6817)
 # Class: obo:NCBITaxon_6819 (Euphausia superba)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_6819 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_6819 "Antarctic krill")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_6819 "Euphausia superba")
 SubClassOf(obo:NCBITaxon_6819 obo:NCBITaxon_6818)
 
@@ -33612,6 +33546,12 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_686570 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_686570 "buccaneer anchovy")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_686570 "Encrasicholina punctifer")
 SubClassOf(obo:NCBITaxon_686570 obo:NCBITaxon_495044)
+
+# Class: obo:NCBITaxon_68758 (Hydnaceae)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_68758 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_68758 "Hydnaceae")
+SubClassOf(obo:NCBITaxon_68758 obo:NCBITaxon_355688)
 
 # Class: obo:NCBITaxon_68759 (Hydnum repandum)
 
@@ -35289,7 +35229,7 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_76717 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_76717 "Northern American river otter")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_76717 "river otter")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_76717 "Lontra canadensis")
-SubClassOf(obo:NCBITaxon_76717 obo:NCBITaxon_9655)
+SubClassOf(obo:NCBITaxon_76717 obo:NCBITaxon_3072906)
 
 # Class: obo:NCBITaxon_7675 (Echinidea)
 
@@ -37518,6 +37458,14 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_8238 "Pacific bluefin
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_8238 "northern bluefin tuna")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_8238 "Thunnus orientalis")
 SubClassOf(obo:NCBITaxon_8238 obo:NCBITaxon_8234)
+
+# Class: obo:NCBITaxon_82384 (Matisia cordata)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_82384 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_82384 "sapote")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_82384 "sapotillo")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_82384 "Matisia cordata")
+SubClassOf(obo:NCBITaxon_82384 obo:NCBITaxon_214907)
 
 # Class: obo:NCBITaxon_8240 (Thunnus maccoyii)
 
@@ -39972,13 +39920,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_9654 "raccoon")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_9654 "Procyon lotor")
 SubClassOf(obo:NCBITaxon_9654 obo:NCBITaxon_9653)
 
-# Class: obo:NCBITaxon_9655 (Mustelidae)
-
-AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_9655 obo:ncbitaxon.owl)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_9655 "weasel, mink, badger, martens and others")
-AnnotationAssertion(rdfs:label obo:NCBITaxon_9655 "Mustelidae")
-SubClassOf(obo:NCBITaxon_9655 obo:NCBITaxon_3072906)
-
 # Class: obo:NCBITaxon_96776 (Trachichthyidae)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_96776 obo:ncbitaxon.owl)
@@ -40202,7 +40143,7 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_976 "Bacteroides-Cyto
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_976 "CFB group")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_976 "Cytophaga-Flexibacter-Bacteroides phylum")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_976 "Bacteroidota")
-SubClassOf(obo:NCBITaxon_976 obo:NCBITaxon_2)
+SubClassOf(obo:NCBITaxon_976 obo:NCBITaxon_3379134)
 
 # Class: obo:NCBITaxon_9761 (Mysticeti)
 

@@ -11,6 +11,18 @@ NCBITaxon
 # NEED Smilax aristolochiifolia / Mexican sasparilla
 # NEED Mitragyna javanica
 
+# DELETED NCBITaxon_492052 # Clitocybe nuda
+http://purl.obolibrary.org/obo/NCBITaxon_64659 # Collybia nuda
+
+# DELETED NCBITaxon_300795 # Cucurbita pepo var. ovifera
+http://purl.obolibrary.org/obo/NCBITaxon_184141 # Cucurbita melopepo subsp. melopepo
+
+# DELETED NCBITaxon_64608 # Agrocybe cylindracea
+http://purl.obolibrary.org/obo/NCBITaxon_1593264 # Cyclocybe cylindracea
+
+# DELETED NCBITaxon_2558045 # Phallus duplicatus
+http://purl.obolibrary.org/obo/NCBITaxon_355741 # Dictyophora duplicata
+
 # DELETED NCBITaxon_435129 # Pennahia anea
 http://purl.obolibrary.org/obo/NCBITaxon_1260532 # Micropogonias megalops Donkey Croaker
 
@@ -120,6 +132,9 @@ http://purl.obolibrary.org/obo/NCBITaxon_303721 # Meuschenia # parent of FoodOn 
 http://purl.obolibrary.org/obo/NCBITaxon_9654 # Procyon lotor # raccoon
 http://purl.obolibrary.org/obo/NCBITaxon_126287 # Didelphinae
 
+http://purl.obolibrary.org/obo/NCBITaxon_159422 # Passiflora alata
+http://purl.obolibrary.org/obo/NCBITaxon_1510925 # species: Passiflora pinnatistipula
+http://purl.obolibrary.org/obo/NCBITaxon_82384 # Matisia cordata
 http://purl.obolibrary.org/obo/NCBITaxon_1000425 # species:Pimpinella major (L.) Huds.
 http://purl.obolibrary.org/obo/NCBITaxon_1001333 # Lithodes murrayi
 http://purl.obolibrary.org/obo/NCBITaxon_100186 # Amphistichus argenteus
@@ -1394,7 +1409,6 @@ http://purl.obolibrary.org/obo/NCBITaxon_255556 # Lepidotrigla spp.
 http://purl.obolibrary.org/obo/NCBITaxon_255560 # Clidoderma asperrimum
 http://purl.obolibrary.org/obo/NCBITaxon_255570 # Kryptopterus spp.
 http://purl.obolibrary.org/obo/NCBITaxon_2556126 # Aristeomorpha foliacea
-http://purl.obolibrary.org/obo/NCBITaxon_2558045 # Phallus duplicatus
 http://purl.obolibrary.org/obo/NCBITaxon_255893 # genus:Eremophila R. Br.
 http://purl.obolibrary.org/obo/NCBITaxon_256424 # species:Esox reichertii Dybowski, 1869
 http://purl.obolibrary.org/obo/NCBITaxon_25664 # family:Araucariaceae
@@ -1655,7 +1669,6 @@ http://purl.obolibrary.org/obo/NCBITaxon_300229 # Chelonodon spp.
 http://purl.obolibrary.org/obo/NCBITaxon_300346 # Hypomesus pretiosus
 http://purl.obolibrary.org/obo/NCBITaxon_300415 # Variola louti
 http://purl.obolibrary.org/obo/NCBITaxon_30062 # Anthomyiidae
-http://purl.obolibrary.org/obo/NCBITaxon_300795 # Cucurbita pepo var. ovifera
 http://purl.obolibrary.org/obo/NCBITaxon_3009 # order:Fucales
 http://purl.obolibrary.org/obo/NCBITaxon_30092 # family:Psyllidae
 http://purl.obolibrary.org/obo/NCBITaxon_300936 # species:Valerianella dentata (L.) Pollich
@@ -2901,7 +2914,6 @@ http://purl.obolibrary.org/obo/NCBITaxon_49198 # Atrina pectinata
 http://purl.obolibrary.org/obo/NCBITaxon_492021 # Decapterus muroadsi
 http://purl.obolibrary.org/obo/NCBITaxon_492024 # species:Alepocephalus australis Barnard, 1923
 http://purl.obolibrary.org/obo/NCBITaxon_492050 # genus:Xenodermichthys Günther, 1878
-http://purl.obolibrary.org/obo/NCBITaxon_492052 # Clitocybe nuda
 http://purl.obolibrary.org/obo/NCBITaxon_49212 # Salvia hispanica
 http://purl.obolibrary.org/obo/NCBITaxon_49225 # species:Triticum dicoccon Schrank
 http://purl.obolibrary.org/obo/NCBITaxon_49266 # species:Fucus vesiculosus
@@ -3318,7 +3330,6 @@ http://purl.obolibrary.org/obo/NCBITaxon_6456 # Haliotis fulgens
 http://purl.obolibrary.org/obo/NCBITaxon_6457 # Haliotis kamtschatkana
 http://purl.obolibrary.org/obo/NCBITaxon_6458 # species:Haliotis sorenseni Bartsch, 1940
 http://purl.obolibrary.org/obo/NCBITaxon_6459 # Haliotis walallensis
-http://purl.obolibrary.org/obo/NCBITaxon_64608 # Agrocybe cylindracea
 http://purl.obolibrary.org/obo/NCBITaxon_64657 # Tremella fuciformis
 http://purl.obolibrary.org/obo/NCBITaxon_6466 # family:Trochidae Rafinesque, 1815
 http://purl.obolibrary.org/obo/NCBITaxon_64660 # Lyophyllum decastes
