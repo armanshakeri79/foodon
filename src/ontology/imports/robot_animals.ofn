@@ -171,6 +171,7 @@ AnnotationAssertion(rdfs:seeAlso <http://purl.obolibrary.org/obo/NCBITaxon_14614
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/NCBITaxon_155054> "https://orcid.org/0000-0001-5275-8866")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/NCBITaxon_155054> "itis:898765")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/NCBITaxon_155054> "Sichuan takin"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NCBITaxon_155054> "Budorcas taxicolor tibetana"@en)
 AnnotationAssertion(rdfs:seeAlso <http://purl.obolibrary.org/obo/NCBITaxon_155054> "https://en.wikipedia.org/wiki/Sichuan_takin")
 
 # Class: <http://purl.obolibrary.org/obo/NCBITaxon_2671080> (Threskiornis molucca)
@@ -240,6 +241,7 @@ AnnotationAssertion(rdfs:seeAlso <http://purl.obolibrary.org/obo/NCBITaxon_52644
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/NCBITaxon_55048> "https://orcid.org/0000-0001-5275-8866")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/NCBITaxon_55048> "itis:180556")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/NCBITaxon_55048> "long-tailed weasel"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NCBITaxon_55048> "Mustela frenata"@en)
 AnnotationAssertion(rdfs:seeAlso <http://purl.obolibrary.org/obo/NCBITaxon_55048> "https://en.wikipedia.org/wiki/Long-tailed_weasel")
 
 # Class: <http://purl.obolibrary.org/obo/NCBITaxon_555253> (Focha andina)
