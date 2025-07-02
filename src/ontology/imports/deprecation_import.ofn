@@ -585,7 +585,6 @@ Declaration(Class(obo:FOODON_03411862))
 Declaration(Class(obo:FOODON_03411863))
 Declaration(Class(obo:FOODON_03411864))
 Declaration(Class(obo:FOODON_03411865))
-Declaration(Class(obo:FOODON_03411866))
 Declaration(Class(obo:FOODON_03411867))
 Declaration(Class(obo:FOODON_03411868))
 Declaration(Class(obo:FOODON_03411869))
@@ -5833,12 +5832,6 @@ AnnotationAssertion(owl:deprecated obo:FOODON_03411864 "true"^^xsd:boolean)
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411865 obo:NCBITaxon_195626)
 AnnotationAssertion(rdfs:label obo:FOODON_03411865 "obsolete: slender sole"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411865 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03411866 (obsolete: arrowtooth flounder)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411866 obo:NCBITaxon_428034)
-AnnotationAssertion(rdfs:label obo:FOODON_03411866 "obsolete: arrowtooth flounder"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411866 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03411867 (obsolete: gray sole)
 
@@ -14317,8 +14310,8 @@ AnnotationAssertion(owl:deprecated obo:FOODON_03460131 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03460136 (obsolete: sugar or sugar syrup added)
 
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03460136 "http://purl.obolibrary.org/obo/FOODON_03420271"@en)
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03460136 "http://purl.obolibrary.org/obo/CHEBI_17992"^^xsd:anyURI)
+AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03460136 "http://purl.obolibrary.org/obo/FOODON_03420271"@en)
 AnnotationAssertion(oboInOwl:hasDbXref obo:FOODON_03460136 langual:H0136)
 AnnotationAssertion(oboInOwl:hasSynonym obo:FOODON_03460136 "disaccharide added"@en)
 AnnotationAssertion(oboInOwl:hasSynonym obo:FOODON_03460136 "monosaccharide added"@en)
