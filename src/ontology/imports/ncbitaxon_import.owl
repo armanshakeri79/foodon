@@ -241,6 +241,7 @@ Declaration(Class(obo:NCBITaxon_1156138))
 Declaration(Class(obo:NCBITaxon_115623))
 Declaration(Class(obo:NCBITaxon_115624))
 Declaration(Class(obo:NCBITaxon_115666))
+Declaration(Class(obo:NCBITaxon_1156757))
 Declaration(Class(obo:NCBITaxon_1156758))
 Declaration(Class(obo:NCBITaxon_115715))
 Declaration(Class(obo:NCBITaxon_115816))
@@ -2025,6 +2026,7 @@ Declaration(Class(obo:NCBITaxon_30483))
 Declaration(Class(obo:NCBITaxon_304850))
 Declaration(Class(obo:NCBITaxon_30493))
 Declaration(Class(obo:NCBITaxon_30496))
+Declaration(Class(obo:NCBITaxon_3049887))
 Declaration(Class(obo:NCBITaxon_3049903))
 Declaration(Class(obo:NCBITaxon_30501))
 Declaration(Class(obo:NCBITaxon_30511))
@@ -2240,6 +2242,7 @@ Declaration(Class(obo:NCBITaxon_323853))
 Declaration(Class(obo:NCBITaxon_323886))
 Declaration(Class(obo:NCBITaxon_3241545))
 Declaration(Class(obo:NCBITaxon_32443))
+Declaration(Class(obo:NCBITaxon_3244320))
 Declaration(Class(obo:NCBITaxon_32446))
 Declaration(Class(obo:NCBITaxon_3250))
 Declaration(Class(obo:NCBITaxon_3251))
@@ -2362,6 +2365,10 @@ Declaration(Class(obo:NCBITaxon_3360502))
 Declaration(Class(obo:NCBITaxon_3362))
 Declaration(Class(obo:NCBITaxon_336262))
 Declaration(Class(obo:NCBITaxon_3363))
+Declaration(Class(obo:NCBITaxon_3363395))
+Declaration(Class(obo:NCBITaxon_3363545))
+Declaration(Class(obo:NCBITaxon_3363546))
+Declaration(Class(obo:NCBITaxon_3363547))
 Declaration(Class(obo:NCBITaxon_33636))
 Declaration(Class(obo:NCBITaxon_33637))
 Declaration(Class(obo:NCBITaxon_3367))
@@ -6815,12 +6822,18 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_115666 "African eggpl
 AnnotationAssertion(rdfs:label obo:NCBITaxon_115666 "Solanum macrocarpon")
 SubClassOf(obo:NCBITaxon_115666 obo:NCBITaxon_4107)
 
+# Class: obo:NCBITaxon_1156757 (Colistium)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1156757 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_1156757 "Colistium")
+SubClassOf(obo:NCBITaxon_1156757 obo:NCBITaxon_490374)
+
 # Class: obo:NCBITaxon_1156758 (Colistium nudipinnis)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_1156758 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_1156758 "New Zealand turbot")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_1156758 "Colistium nudipinnis")
-SubClassOf(obo:NCBITaxon_1156758 obo:NCBITaxon_490374)
+SubClassOf(obo:NCBITaxon_1156758 obo:NCBITaxon_1156757)
 
 # Class: obo:NCBITaxon_115715 (Vigna subterranea)
 
@@ -18840,6 +18853,12 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_30496 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_30496 "Lamniformes")
 SubClassOf(obo:NCBITaxon_30496 obo:NCBITaxon_119195)
 
+# Class: obo:NCBITaxon_3049887 (Colistium guentheri)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3049887 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_3049887 "Colistium guentheri")
+SubClassOf(obo:NCBITaxon_3049887 obo:NCBITaxon_1156757)
+
 # Class: obo:NCBITaxon_3049903 (Scyris alexandrina)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3049903 obo:ncbitaxon.owl)
@@ -20312,6 +20331,13 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_32443 "teleost fishes
 AnnotationAssertion(rdfs:label obo:NCBITaxon_32443 "Teleostei")
 SubClassOf(obo:NCBITaxon_32443 obo:NCBITaxon_41665)
 
+# Class: obo:NCBITaxon_3244320 (Lamarcka imbricata)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3244320 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3244320 "mossy ark")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_3244320 "Lamarcka imbricata")
+SubClassOf(obo:NCBITaxon_3244320 obo:NCBITaxon_6553)
+
 # Class: obo:NCBITaxon_32446 (Clupeiformes)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_32446 obo:ncbitaxon.owl)
@@ -21154,6 +21180,33 @@ SubClassOf(obo:NCBITaxon_336262 obo:NCBITaxon_224712)
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3363 obo:ncbitaxon.owl)
 AnnotationAssertion(rdfs:label obo:NCBITaxon_3363 "Podocarpus")
 SubClassOf(obo:NCBITaxon_3363 obo:NCBITaxon_3362)
+
+# Class: obo:NCBITaxon_3363395 (Caliraja)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3363395 obo:ncbitaxon.owl)
+AnnotationAssertion(rdfs:label obo:NCBITaxon_3363395 "Caliraja")
+SubClassOf(obo:NCBITaxon_3363395 obo:NCBITaxon_30475)
+
+# Class: obo:NCBITaxon_3363545 (Caliraja inornata)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3363545 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3363545 "California ray")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_3363545 "Caliraja inornata")
+SubClassOf(obo:NCBITaxon_3363545 obo:NCBITaxon_3363395)
+
+# Class: obo:NCBITaxon_3363546 (Caliraja rhina)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3363546 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3363546 "longnose skate")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_3363546 "Caliraja rhina")
+SubClassOf(obo:NCBITaxon_3363546 obo:NCBITaxon_3363395)
+
+# Class: obo:NCBITaxon_3363547 (Caliraja stellulata)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3363547 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3363547 "starry skate")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_3363547 "Caliraja stellulata")
+SubClassOf(obo:NCBITaxon_3363547 obo:NCBITaxon_3363395)
 
 # Class: obo:NCBITaxon_33636 (Laminariaceae)
 
