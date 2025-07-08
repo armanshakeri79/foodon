@@ -102,6 +102,14 @@ Datatype: idrange:13
     EquivalentTo: 
         xsd:integer[> 2400000 , <= 2599999]
 
+Datatype: idrange:14
+
+    Annotations: 
+        allocatedto: "Fungal parts (manual curation)"
+    
+    EquivalentTo: 
+        xsd:integer[> 2600000 , <= 2609999]
+
 Datatype: idrange:4
 
     Annotations: 
