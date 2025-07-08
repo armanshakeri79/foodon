@@ -94,6 +94,14 @@ Datatype: idrange:10
     EquivalentTo: 
         xsd:integer[> 2230000 , <= 2399999]
 
+Datatype: idrange:13
+
+    Annotations: 
+        allocatedto: "Fungal template (generated)"
+    
+    EquivalentTo: 
+        xsd:integer[> 2400000 , <= 2599999]
+
 Datatype: idrange:4
 
     Annotations: 
