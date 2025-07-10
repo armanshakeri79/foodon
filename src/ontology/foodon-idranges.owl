@@ -39,7 +39,6 @@ Datatype: idrange:1
     
     EquivalentTo: 
         xsd:integer[>= 0 , <= 999999]
-
     
 Datatype: idrange:2
 
@@ -48,11 +47,6 @@ Datatype: idrange:2
     
     EquivalentTo: 
         xsd:integer[>= 1000000 , <= 1999999]
-    
-    
-Datatype: xsd:integer
-
-    
 
 Datatype: idrange:3
 
@@ -65,7 +59,7 @@ Datatype: idrange:3
 Datatype: idrange:11
 
     Annotations: 
-        allocatedto: "Animal and Seafood parts (manual curation)"
+        allocatedto: "Manually curated organism parts"
     
     EquivalentTo: 
         xsd:integer[> 2010000 , <= 2019999]
@@ -78,14 +72,6 @@ Datatype: idrange:9
     EquivalentTo: 
         xsd:integer[> 2020000 , <= 2199999]
 
-Datatype: idrange:12
-
-    Annotations: 
-        allocatedto: "Plant parts (manual curation)"
-    
-    EquivalentTo: 
-        xsd:integer[> 2200000 , <= 2229999]
-
 Datatype: idrange:10
 
     Annotations: 
@@ -93,6 +79,14 @@ Datatype: idrange:10
     
     EquivalentTo: 
         xsd:integer[> 2230000 , <= 2399999]
+
+Datatype: idrange:13
+
+    Annotations: 
+        allocatedto: "Fungal template (generated)"
+    
+    EquivalentTo: 
+        xsd:integer[> 2400000 , <= 2599999]
 
 Datatype: idrange:4
 
@@ -117,8 +111,6 @@ Datatype: idrange:6
     
     EquivalentTo: 
         xsd:integer[> 3601000 , <= 3601999]
-    
-Datatype: rdf:PlainLiteral
 
 Datatype: idrange:7
 
@@ -127,8 +119,6 @@ Datatype: idrange:7
     
     EquivalentTo: 
         xsd:integer[> 3602000 , <= 3602999]
-    
-Datatype: rdf:PlainLiteral
     
 Datatype: idrange:8
 

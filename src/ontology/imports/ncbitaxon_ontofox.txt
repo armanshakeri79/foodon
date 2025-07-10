@@ -11,6 +11,14 @@ NCBITaxon
 # NEED Smilax aristolochiifolia / Mexican sasparilla
 # NEED Mitragyna javanica
 
+
+#DELETED NCBITaxon_1913631 # Colistium guntheri
+http://purl.obolibrary.org/obo/NCBITaxon_3049887 # Colistium guentheri
+
+# DELETED NCBITaxon_121025 # Arca imbricata
+http://purl.obolibrary.org/obo/NCBITaxon_3244320 # Lamarcka imbricata
+
+
 # DELETED NCBITaxon_492052 # Clitocybe nuda
 http://purl.obolibrary.org/obo/NCBITaxon_64659 # Collybia nuda
 
@@ -30,7 +38,9 @@ http://purl.obolibrary.org/obo/NCBITaxon_1260532 # Micropogonias megalops Donkey
 http://purl.obolibrary.org/obo/NCBITaxon_223891 # Solanum virginianum
 
 # DELETED NCBITaxon_30478 # Raja rhina
-http://purl.obolibrary.org/obo/NCBITaxon_2838338 # Beringraja rhina (Synonym: Raja rhina, Alternative ID->NCBITaxon_30478)
+# DELETED NCBITaxon_2838338 # Beringraja rhina (Synonym: Raja rhina, Alternative ID->NCBITaxon_30478)
+http://purl.obolibrary.org/obo/NCBITaxon_3363546 # Caliraja rhina
+
 
 # DELETED NCBITaxon_218804 # Leiognathus equulus
 http://purl.obolibrary.org/obo/NCBITaxon_2893490 # Leiognathus equula (Alternative ID-> NCBITaxon_218804)
@@ -47,7 +57,8 @@ http://purl.obolibrary.org/obo/NCBITaxon_2838337 # Beringraja binoculata ( Synon
 http://purl.obolibrary.org/obo/NCBITaxon_2838341 # Phanerodon vaccai (Synonym: Rhacochilus vacca, Alternative ID->NCBITaxon_50905)
 
 # DELETED NCBITaxon_740706 # Raja inornata
-http://purl.obolibrary.org/obo/NCBITaxon_2838339 # Beringraja inornata (synonym: Raja inornata, Alternative ID->NCBITaxon_740706)
+# DELETED NCBITaxon_2838339 # Beringraja inornata (synonym: Raja inornata, Alternative ID->NCBITaxon_740706)
+http://purl.obolibrary.org/obo/NCBITaxon_3363545 # Caliraja inornata
 
 # DELETED NCBITaxon_114055 # Chlorella / Chlorella <Trebouxiophyceae incertae sedis>
 http://purl.obolibrary.org/obo/NCBITaxon_3071 # Chlorella
@@ -85,8 +96,9 @@ http://purl.obolibrary.org/obo/NCBITaxon_76927 # Nemadactylus bergi
 #DELETED NCBITaxon_75034 # Pomatomus saltatrix FDA Seafood
 http://purl.obolibrary.org/obo/NCBITaxon_94948 # Pomatomus saltator
 
-#DELETED NCBITaxon_740707 # Raja stellulata FDA Seafood
-http://purl.obolibrary.org/obo/NCBITaxon_2838340 # Beringraja stellulata
+# DELETED NCBITaxon_740707 # Raja stellulata FDA Seafood
+# DELETED NCBITaxon_2838340 # Beringraja stellulata
+http://purl.obolibrary.org/obo/NCBITaxon_3363547 # Caliraja stellulata
 
 #DELETED NCBITaxon_6786 # Cryptodromiopsis antillensis (Stimpson, 1858)
 # Reintroduced FoodOn term
@@ -400,7 +412,6 @@ http://purl.obolibrary.org/obo/NCBITaxon_1204434 # species:Brassica ruvo L. H. B
 http://purl.obolibrary.org/obo/NCBITaxon_1204718 # family:Lateolabracidae Springer and Raasch, 1995
 http://purl.obolibrary.org/obo/NCBITaxon_1206913 # species:Bembrops anatirostris Ginsburg, 1955
 http://purl.obolibrary.org/obo/NCBITaxon_1206914 # species:Bembrops gobioides (Goode, 1880)
-http://purl.obolibrary.org/obo/NCBITaxon_121025 # Arca imbricata
 http://purl.obolibrary.org/obo/NCBITaxon_121046 # Leccinum aurantiacum
 http://purl.obolibrary.org/obo/NCBITaxon_121051 # Leccinum scabrum
 http://purl.obolibrary.org/obo/NCBITaxon_121072 # genus:Cassytha L.
@@ -1028,7 +1039,6 @@ http://purl.obolibrary.org/obo/NCBITaxon_1906136 # Barbonymus schwanenfeldii
 http://purl.obolibrary.org/obo/NCBITaxon_190902 # species:Mentha aquatica L.
 http://purl.obolibrary.org/obo/NCBITaxon_191066 # species:Empetrum nigrum L.
 http://purl.obolibrary.org/obo/NCBITaxon_1910901 # Lutjanus goreensis
-http://purl.obolibrary.org/obo/NCBITaxon_1913631 # Colistium guntheri
 http://purl.obolibrary.org/obo/NCBITaxon_191678 # species:Lophius budegassa Spinola, 1807
 http://purl.obolibrary.org/obo/NCBITaxon_1916796 # Channomuraena vittata
 http://purl.obolibrary.org/obo/NCBITaxon_191812 # genus:Somniosus Lesueur, 1818
