@@ -278,7 +278,6 @@ Declaration(Class(obo:FOODON_03411055))
 Declaration(Class(obo:FOODON_03411065))
 Declaration(Class(obo:FOODON_03411068))
 Declaration(Class(obo:FOODON_03411069))
-Declaration(Class(obo:FOODON_03411070))
 Declaration(Class(obo:FOODON_03411071))
 Declaration(Class(obo:FOODON_03411074))
 Declaration(Class(obo:FOODON_03411076))
@@ -302,7 +301,6 @@ Declaration(Class(obo:FOODON_03411110))
 Declaration(Class(obo:FOODON_03411111))
 Declaration(Class(obo:FOODON_03411112))
 Declaration(Class(obo:FOODON_03411115))
-Declaration(Class(obo:FOODON_03411116))
 Declaration(Class(obo:FOODON_03411117))
 Declaration(Class(obo:FOODON_03411118))
 Declaration(Class(obo:FOODON_03411120))
@@ -417,7 +415,6 @@ Declaration(Class(obo:FOODON_03411504))
 Declaration(Class(obo:FOODON_03411506))
 Declaration(Class(obo:FOODON_03411508))
 Declaration(Class(obo:FOODON_03411509))
-Declaration(Class(obo:FOODON_03411511))
 Declaration(Class(obo:FOODON_03411512))
 Declaration(Class(obo:FOODON_03411516))
 Declaration(Class(obo:FOODON_03411521))
@@ -518,14 +515,11 @@ Declaration(Class(obo:FOODON_03411763))
 Declaration(Class(obo:FOODON_03411764))
 Declaration(Class(obo:FOODON_03411765))
 Declaration(Class(obo:FOODON_03411766))
-Declaration(Class(obo:FOODON_03411767))
 Declaration(Class(obo:FOODON_03411768))
 Declaration(Class(obo:FOODON_03411769))
 Declaration(Class(obo:FOODON_03411770))
 Declaration(Class(obo:FOODON_03411771))
-Declaration(Class(obo:FOODON_03411772))
 Declaration(Class(obo:FOODON_03411773))
-Declaration(Class(obo:FOODON_03411774))
 Declaration(Class(obo:FOODON_03411775))
 Declaration(Class(obo:FOODON_03411776))
 Declaration(Class(obo:FOODON_03411777))
@@ -570,9 +564,7 @@ Declaration(Class(obo:FOODON_03411841))
 Declaration(Class(obo:FOODON_03411842))
 Declaration(Class(obo:FOODON_03411847))
 Declaration(Class(obo:FOODON_03411848))
-Declaration(Class(obo:FOODON_03411849))
 Declaration(Class(obo:FOODON_03411850))
-Declaration(Class(obo:FOODON_03411851))
 Declaration(Class(obo:FOODON_03411852))
 Declaration(Class(obo:FOODON_03411853))
 Declaration(Class(obo:FOODON_03411855))
@@ -587,7 +579,6 @@ Declaration(Class(obo:FOODON_03411864))
 Declaration(Class(obo:FOODON_03411865))
 Declaration(Class(obo:FOODON_03411867))
 Declaration(Class(obo:FOODON_03411868))
-Declaration(Class(obo:FOODON_03411869))
 Declaration(Class(obo:FOODON_03411870))
 Declaration(Class(obo:FOODON_03411871))
 Declaration(Class(obo:FOODON_03411872))
@@ -616,7 +607,6 @@ Declaration(Class(obo:FOODON_03411920))
 Declaration(Class(obo:FOODON_03411925))
 Declaration(Class(obo:FOODON_03411926))
 Declaration(Class(obo:FOODON_03411927))
-Declaration(Class(obo:FOODON_03411928))
 Declaration(Class(obo:FOODON_03411929))
 Declaration(Class(obo:FOODON_03411930))
 Declaration(Class(obo:FOODON_03411931))
@@ -698,11 +688,9 @@ Declaration(Class(obo:FOODON_03412142))
 Declaration(Class(obo:FOODON_03412143))
 Declaration(Class(obo:FOODON_03412144))
 Declaration(Class(obo:FOODON_03412145))
-Declaration(Class(obo:FOODON_03412147))
 Declaration(Class(obo:FOODON_03412149))
 Declaration(Class(obo:FOODON_03412150))
 Declaration(Class(obo:FOODON_03412151))
-Declaration(Class(obo:FOODON_03412152))
 Declaration(Class(obo:FOODON_03412153))
 Declaration(Class(obo:FOODON_03412155))
 Declaration(Class(obo:FOODON_03412159))
@@ -782,14 +770,12 @@ Declaration(Class(obo:FOODON_03412297))
 Declaration(Class(obo:FOODON_03412299))
 Declaration(Class(obo:FOODON_03412301))
 Declaration(Class(obo:FOODON_03412302))
-Declaration(Class(obo:FOODON_03412304))
 Declaration(Class(obo:FOODON_03412305))
 Declaration(Class(obo:FOODON_03412307))
 Declaration(Class(obo:FOODON_03412308))
 Declaration(Class(obo:FOODON_03412312))
 Declaration(Class(obo:FOODON_03412313))
 Declaration(Class(obo:FOODON_03412316))
-Declaration(Class(obo:FOODON_03412317))
 Declaration(Class(obo:FOODON_03412318))
 Declaration(Class(obo:FOODON_03412319))
 Declaration(Class(obo:FOODON_03412320))
@@ -857,7 +843,6 @@ Declaration(Class(obo:FOODON_03412445))
 Declaration(Class(obo:FOODON_03412447))
 Declaration(Class(obo:FOODON_03412448))
 Declaration(Class(obo:FOODON_03412452))
-Declaration(Class(obo:FOODON_03412459))
 Declaration(Class(obo:FOODON_03412460))
 Declaration(Class(obo:FOODON_03412462))
 Declaration(Class(obo:FOODON_03412464))
@@ -933,7 +918,6 @@ Declaration(Class(obo:FOODON_03412654))
 Declaration(Class(obo:FOODON_03412660))
 Declaration(Class(obo:FOODON_03412662))
 Declaration(Class(obo:FOODON_03412664))
-Declaration(Class(obo:FOODON_03412667))
 Declaration(Class(obo:FOODON_03412668))
 Declaration(Class(obo:FOODON_03412669))
 Declaration(Class(obo:FOODON_03412670))
@@ -1035,7 +1019,6 @@ Declaration(Class(obo:FOODON_03412889))
 Declaration(Class(obo:FOODON_03412891))
 Declaration(Class(obo:FOODON_03412892))
 Declaration(Class(obo:FOODON_03412894))
-Declaration(Class(obo:FOODON_03412895))
 Declaration(Class(obo:FOODON_03412896))
 Declaration(Class(obo:FOODON_03412900))
 Declaration(Class(obo:FOODON_03412901))
@@ -4029,12 +4012,6 @@ AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411069 obo:NCBITaxon_8241)
 AnnotationAssertion(rdfs:label obo:FOODON_03411069 "obsolete: bigeye tuna"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411069 "true"^^xsd:boolean)
 
-# Class: obo:FOODON_03411070 (obsolete: blackfin tuna)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411070 obo:NCBITaxon_48168)
-AnnotationAssertion(rdfs:label obo:FOODON_03411070 "obsolete: blackfin tuna"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411070 "true"^^xsd:boolean)
-
 # Class: obo:FOODON_03411071 (obsolete: black walnut tree)
 
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411071 obo:NCBITaxon_16719)
@@ -4166,12 +4143,6 @@ AnnotationAssertion(owl:deprecated obo:FOODON_03411112 "true"^^xsd:boolean)
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411115 obo:NCBITaxon_8018)
 AnnotationAssertion(rdfs:label obo:FOODON_03411115 "obsolete: chum salmon"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411115 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03411116 (obsolete: pink salmon)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411116 obo:NCBITaxon_8017)
-AnnotationAssertion(rdfs:label obo:FOODON_03411116 "obsolete: pink salmon"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411116 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03411117 (obsolete: coho salmon)
 
@@ -4816,12 +4787,6 @@ AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411509 obo:NCBITaxon_9870)
 AnnotationAssertion(rdfs:label obo:FOODON_03411509 "obsolete: reindeer"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411509 "true"^^xsd:boolean)
 
-# Class: obo:FOODON_03411511 (obsolete: dover sole)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411511 obo:NCBITaxon_89058)
-AnnotationAssertion(rdfs:label obo:FOODON_03411511 "obsolete: dover sole"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411511 "true"^^xsd:boolean)
-
 # Class: obo:FOODON_03411512 (obsolete: bluefish)
 
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411512 obo:NCBITaxon_75034)
@@ -5426,12 +5391,6 @@ AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411766 obo:NCBITaxon_72087)
 AnnotationAssertion(rdfs:label obo:FOODON_03411766 "obsolete: vermilion rockfish"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411766 "true"^^xsd:boolean)
 
-# Class: obo:FOODON_03411767 (obsolete: cowcod)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411767 obo:NCBITaxon_72083)
-AnnotationAssertion(rdfs:label obo:FOODON_03411767 "obsolete: cowcod"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411767 "true"^^xsd:boolean)
-
 # Class: obo:FOODON_03411768 (obsolete: labrador redfish)
 
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411768 obo:NCBITaxon_394691)
@@ -5456,23 +5415,11 @@ AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411771 obo:NCBITaxon_72102)
 AnnotationAssertion(rdfs:label obo:FOODON_03411771 "obsolete: olive rockfish"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411771 "true"^^xsd:boolean)
 
-# Class: obo:FOODON_03411772 (obsolete: bank rockfish)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411772 obo:NCBITaxon_72100)
-AnnotationAssertion(rdfs:label obo:FOODON_03411772 "obsolete: bank rockfish"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411772 "true"^^xsd:boolean)
-
 # Class: obo:FOODON_03411773 (obsolete: yelloweye rockfish)
 
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411773 obo:NCBITaxon_72098)
 AnnotationAssertion(rdfs:label obo:FOODON_03411773 "obsolete: yelloweye rockfish"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411773 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03411774 (obsolete: canary rockfish)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411774 obo:NCBITaxon_72094)
-AnnotationAssertion(rdfs:label obo:FOODON_03411774 "obsolete: canary rockfish"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411774 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03411775 (obsolete: speckled rockfish)
 
@@ -5743,23 +5690,11 @@ AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411848 obo:NCBITaxon_224707)
 AnnotationAssertion(rdfs:label obo:FOODON_03411848 "obsolete: gulf menhaden"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411848 "true"^^xsd:boolean)
 
-# Class: obo:FOODON_03411849 (obsolete: atlantic menhaden)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411849 obo:NCBITaxon_224708)
-AnnotationAssertion(rdfs:label obo:FOODON_03411849 "obsolete: atlantic menhaden"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411849 "true"^^xsd:boolean)
-
 # Class: obo:FOODON_03411850 (obsolete: pacific round herring)
 
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411850 obo:NCBITaxon_942859)
 AnnotationAssertion(rdfs:label obo:FOODON_03411850 "obsolete: pacific round herring"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411850 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03411851 (obsolete: atlantic thread herring)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411851 obo:NCBITaxon_224711)
-AnnotationAssertion(rdfs:label obo:FOODON_03411851 "obsolete: atlantic thread herring"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411851 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03411852 (obsolete: blueback herring)
 
@@ -5844,12 +5779,6 @@ AnnotationAssertion(owl:deprecated obo:FOODON_03411867 "true"^^xsd:boolean)
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411868 obo:NCBITaxon_195623)
 AnnotationAssertion(rdfs:label obo:FOODON_03411868 "obsolete: rock sole"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411868 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03411869 (obsolete: butter sole)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411869 obo:NCBITaxon_195617)
-AnnotationAssertion(rdfs:label obo:FOODON_03411869 "obsolete: butter sole"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411869 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03411870 (obsolete: sand sole)
 
@@ -6018,12 +5947,6 @@ AnnotationAssertion(owl:deprecated obo:FOODON_03411926 "true"^^xsd:boolean)
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411927 obo:NCBITaxon_454057)
 AnnotationAssertion(rdfs:label obo:FOODON_03411927 "obsolete: white pomfret"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03411927 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03411928 (obsolete: brazilian duckbill)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03411928 obo:NCBITaxon_443802)
-AnnotationAssertion(rdfs:label obo:FOODON_03411928 "obsolete: brazilian duckbill"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03411928 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03411929 (obsolete: atlantic pomfret)
 
@@ -6473,12 +6396,6 @@ AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412145 obo:NCBITaxon_443792)
 AnnotationAssertion(rdfs:label obo:FOODON_03412145 "obsolete: rock cod"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03412145 "true"^^xsd:boolean)
 
-# Class: obo:FOODON_03412147 (obsolete: african pompano)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412147 obo:NCBITaxon_179359)
-AnnotationAssertion(rdfs:label obo:FOODON_03412147 "obsolete: african pompano"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03412147 "true"^^xsd:boolean)
-
 # Class: obo:FOODON_03412149 (obsolete: pacific snapper)
 
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412149 obo:NCBITaxon_290247)
@@ -6496,12 +6413,6 @@ AnnotationAssertion(owl:deprecated obo:FOODON_03412150 "true"^^xsd:boolean)
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412151 obo:NCBITaxon_40509)
 AnnotationAssertion(rdfs:label obo:FOODON_03412151 "obsolete: queen snapper"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03412151 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03412152 (obsolete: flatiron herring)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412152 obo:NCBITaxon_875777)
-AnnotationAssertion(rdfs:label obo:FOODON_03412152 "obsolete: flatiron herring"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03412152 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03412153 (obsolete: shortfin corvina)
 
@@ -6971,12 +6882,6 @@ AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412302 obo:NCBITaxon_59296)
 AnnotationAssertion(rdfs:label obo:FOODON_03412302 "obsolete: inconnu"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03412302 "true"^^xsd:boolean)
 
-# Class: obo:FOODON_03412304 (obsolete: blue warehou)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412304 obo:NCBITaxon_316135)
-AnnotationAssertion(rdfs:label obo:FOODON_03412304 "obsolete: blue warehou"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03412304 "true"^^xsd:boolean)
-
 # Class: obo:FOODON_03412305 (obsolete: kanda)
 
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412305 obo:NCBITaxon_1111464)
@@ -7012,12 +6917,6 @@ AnnotationAssertion(owl:deprecated obo:FOODON_03412313 "true"^^xsd:boolean)
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412316 obo:NCBITaxon_69930)
 AnnotationAssertion(rdfs:label obo:FOODON_03412316 "obsolete: silver catfish"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03412316 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03412317 (obsolete: african mudfish)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412317 obo:NCBITaxon_169291)
-AnnotationAssertion(rdfs:label obo:FOODON_03412317 "obsolete: african mudfish"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03412317 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03412318 (obsolete: neet (fish))
 
@@ -7411,12 +7310,6 @@ AnnotationAssertion(owl:deprecated obo:FOODON_03412447 "true"^^xsd:boolean)
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412448 obo:NCBITaxon_66656)
 AnnotationAssertion(rdfs:label obo:FOODON_03412448 "obsolete: durian tree (Durio zibethinus)"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03412448 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03412459 (obsolete: bay scallop)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412459 obo:NCBITaxon_31199)
-AnnotationAssertion(rdfs:label obo:FOODON_03412459 "obsolete: bay scallop"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03412459 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03412460 (obsolete: red drum)
 
@@ -7857,12 +7750,6 @@ AnnotationAssertion(oboInOwl:hasDbXref obo:FOODON_03412664 langual:B2664)
 AnnotationAssertion(rdfs:comment obo:FOODON_03412664 "LanguaL curation note: This term is only kept for backward compatibility. DO NOT USE for new indexing."@en)
 AnnotationAssertion(rdfs:label obo:FOODON_03412664 "obsolete: corvina"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03412664 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03412667 (obsolete: blue rockfish)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412667 obo:NCBITaxon_72088)
-AnnotationAssertion(rdfs:label obo:FOODON_03412667 "obsolete: blue rockfish"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03412667 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03412668 (obsolete: stripetail rockfish)
 
@@ -8447,12 +8334,6 @@ AnnotationAssertion(owl:deprecated obo:FOODON_03412892 "true"^^xsd:boolean)
 AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412894 obo:NCBITaxon_316134)
 AnnotationAssertion(rdfs:label obo:FOODON_03412894 "obsolete: white warehou"@en)
 AnnotationAssertion(owl:deprecated obo:FOODON_03412894 "true"^^xsd:boolean)
-
-# Class: obo:FOODON_03412895 (obsolete: black ruff)
-
-AnnotationAssertion(obo:IAO_0100001 obo:FOODON_03412895 obo:NCBITaxon_316130)
-AnnotationAssertion(rdfs:label obo:FOODON_03412895 "obsolete: black ruff"@en)
-AnnotationAssertion(owl:deprecated obo:FOODON_03412895 "true"^^xsd:boolean)
 
 # Class: obo:FOODON_03412896 (obsolete: yelloweye mullet)
 
