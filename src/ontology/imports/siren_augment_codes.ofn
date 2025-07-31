@@ -29985,14 +29985,6 @@ AnnotationAssertion(rdfs:comment obo:FOODON_03304706 "SIREN DB annotation:
 * sugar syrup or syrup solids FOODON:03420271
 * ingredient: flavoring or taste ingredient added FOODON:03460117"@en)
 
-# Class: obo:FOODON_03304707 (coleslaw)
-
-AnnotationAssertion(rdfs:comment obo:FOODON_03304707 "SIREN DB annotation:
-* semisolid with solid pieces FOODON:03430134
-* not heat-treated FOODON:03440003
-* head (plant) FOODON:03420151
-* ingredient: fat or oil added FOODON:03460221"@en)
-
 # Class: obo:FOODON_03304708 (potato salad)
 
 AnnotationAssertion(rdfs:comment obo:FOODON_03304708 "SIREN DB annotation:
@@ -39221,7 +39213,7 @@ AnnotationAssertion(rdfs:comment obo:FOODON_03306290 "SIREN DB annotation:
 * water removal process FOODON:03460138
 * preservation by dehydration or drying FOODON:03470116"@en)
 
-# Class: obo:FOODON_03306293 (wheat and corn macaroni or noodle product)
+# Class: obo:FOODON_03306293 (wheat and corn macaroni or noodle)
 
 AnnotationAssertion(rdfs:comment obo:FOODON_03306293 "SIREN DB annotation:
 * whole, shape achieved by forming, thickness <0.3 cm. FOODON:03430153
@@ -47275,16 +47267,6 @@ AnnotationAssertion(rdfs:comment obo:FOODON_03307777 "SIREN DB annotation:
 * meat part of animal FOODON:03420103
 * food filling process FOODON:03460207
 * ingredient: grain added FOODON:03460152"@en)
-
-# Class: obo:FOODON_03307779 (chicken and turkey salad)
-
-AnnotationAssertion(rdfs:comment obo:FOODON_03307779 "SIREN DB annotation:
-* semisolid with solid pieces FOODON:03430134
-* fully heat-treated FOODON:03440014
-* meat color, undesignated or unknown (deprecated) FOODON:03530003
-* skeletal meat part, without bone, without skin FOODON:03420268
-* ingredient: spice or herb added FOODON:03460151
-* ingredient: fat or oil added FOODON:03460221"@en)
 
 # Class: obo:FOODON_03307781 (chicken and turkey salad sandwich)
 
@@ -66664,7 +66646,7 @@ AnnotationAssertion(rdfs:comment obo:FOODON_03311639 "SIREN DB annotation:
 * curing or aging process FOODON:03460253
 * ingredient: chocolate or cocoa added FOODON:03460231"@en)
 
-# Class: obo:FOODON_03311640 (bon bon)
+# Class: obo:FOODON_03311640 (bonbon)
 
 AnnotationAssertion(rdfs:comment obo:FOODON_03311640 "SIREN DB annotation:
 * food coating or covering process FOODON:03460353
@@ -66686,7 +66668,7 @@ AnnotationAssertion(rdfs:comment obo:FOODON_03311642 "SIREN DB annotation:
 * fat or oil FOODON:03420190
 * food modification process FOODON:03460141"@en)
 
-# Class: obo:FOODON_03311651 (bubod (food product))
+# Class: obo:FOODON_03311651 (bubod starter culture)
 
 AnnotationAssertion(rdfs:comment obo:FOODON_03311651 "SIREN DB annotation:
 * whole, shape achieved by forming, thickness 1.5-7 cm. FOODON:03430105
@@ -67783,7 +67765,7 @@ AnnotationAssertion(rdfs:comment obo:FOODON_03311878 "SIREN DB annotation:
 * fat removal process FOODON:03460161
 * preservation by dehydration or drying FOODON:03470116"@en)
 
-# Class: obo:FOODON_03311884 (compressed yeast food product)
+# Class: obo:FOODON_03311884 (compressed yeast)
 
 AnnotationAssertion(rdfs:comment obo:FOODON_03311884 "SIREN DB annotation:
 * whole, shape achieved by forming FOODON:03430147
