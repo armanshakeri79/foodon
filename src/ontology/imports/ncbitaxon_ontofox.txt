@@ -12,132 +12,139 @@ NCBITaxon
 # NEED Mitragyna javanica
 
 
-#DELETED NCBITaxon_1913631 # Colistium guntheri
+# REPLACED NCBITaxon_1913631 # Colistium guntheri
 http://purl.obolibrary.org/obo/NCBITaxon_3049887 # Colistium guentheri
 
-# DELETED NCBITaxon_121025 # Arca imbricata
+# REPLACED NCBITaxon_121025 # Arca imbricata
 http://purl.obolibrary.org/obo/NCBITaxon_3244320 # Lamarcka imbricata
 
 
-# DELETED NCBITaxon_492052 # Clitocybe nuda
+# REPLACED NCBITaxon_492052 # Clitocybe nuda
 http://purl.obolibrary.org/obo/NCBITaxon_64659 # Collybia nuda
 
-# DELETED NCBITaxon_300795 # Cucurbita pepo var. ovifera
+# REPLACED NCBITaxon_300795 # Cucurbita pepo var. ovifera
 http://purl.obolibrary.org/obo/NCBITaxon_184141 # Cucurbita melopepo subsp. melopepo
 
-# DELETED NCBITaxon_64608 # Agrocybe cylindracea
+# REPLACED NCBITaxon_64608 # Agrocybe cylindracea
 http://purl.obolibrary.org/obo/NCBITaxon_1593264 # Cyclocybe cylindracea
 
-# DELETED NCBITaxon_2558045 # Phallus duplicatus
+# REPLACED NCBITaxon_2558045 # Phallus duplicatus
 http://purl.obolibrary.org/obo/NCBITaxon_355741 # Dictyophora duplicata
 
-# DELETED NCBITaxon_435129 # Pennahia anea
+# REPLACED NCBITaxon_435129 # Pennahia anea
 http://purl.obolibrary.org/obo/NCBITaxon_1260532 # Micropogonias megalops Donkey Croaker
 
-# DELETED NCBITaxon_4111 # Solanum melongena # eggplant
+# REPLACED NCBITaxon_4111 # Solanum melongena # eggplant
 http://purl.obolibrary.org/obo/NCBITaxon_223891 # Solanum virginianum
 
-# DELETED NCBITaxon_30478 # Raja rhina
-# DELETED NCBITaxon_2838338 # Beringraja rhina (Synonym: Raja rhina, Alternative ID->NCBITaxon_30478)
+# REPLACED NCBITaxon_30478 # Raja rhina
+# REPLACED NCBITaxon_2838338 # Beringraja rhina ,Synonym: Raja rhina
 http://purl.obolibrary.org/obo/NCBITaxon_3363546 # Caliraja rhina
 
 
-# DELETED NCBITaxon_218804 # Leiognathus equulus
+# REPLACED NCBITaxon_218804 # Leiognathus equulus
 http://purl.obolibrary.org/obo/NCBITaxon_2893490 # Leiognathus equula (Alternative ID-> NCBITaxon_218804)
 
 # DELETED NCBITaxon_1428164 # species:Sorghum X drummondii (Nees ex Steud.) Millsp. & Chase 
 
-# DELETED NCBITaxon_302770 # Hermosilla azurea
+# REPLACED NCBITaxon_302770 # Hermosilla azurea
 http://purl.obolibrary.org/obo/NCBITaxon_2838349 # Kyphosus azureus (Synonym: Hermosilla azurea, Alternative ID-> NCBITaxon_302770)
 
-# DELETED NCBITaxon_341241 # Raja binoculata
+# REPLACED NCBITaxon_341241 # Raja binoculata
 http://purl.obolibrary.org/obo/NCBITaxon_2838337 # Beringraja binoculata ( Synonym: Raja binoculare, Alternative ID-> NCBITaxon_341241)
 
-# DELETED NCBITaxon_50905 # Rhacochilus vacca
+# REPLACED NCBITaxon_50905 # Rhacochilus vacca
 http://purl.obolibrary.org/obo/NCBITaxon_2838341 # Phanerodon vaccai (Synonym: Rhacochilus vacca, Alternative ID->NCBITaxon_50905)
 
-# DELETED NCBITaxon_740706 # Raja inornata
-# DELETED NCBITaxon_2838339 # Beringraja inornata (synonym: Raja inornata, Alternative ID->NCBITaxon_740706)
+# REPLACED NCBITaxon_740706 # Raja inornata
+# REPLACED NCBITaxon_2838339 # Beringraja inornata (synonym: Raja inornata, Alternative ID->NCBITaxon_740706)
 http://purl.obolibrary.org/obo/NCBITaxon_3363545 # Caliraja inornata
 
-# DELETED NCBITaxon_114055 # Chlorella / Chlorella <Trebouxiophyceae incertae sedis>
+# REPLACED NCBITaxon_114055 # Chlorella / Chlorella <Trebouxiophyceae incertae sedis>
 http://purl.obolibrary.org/obo/NCBITaxon_3071 # Chlorella
 
-# DELETED NCBITaxon_2843217 Rhaphiolepis bibas replaced by NCBITaxon_32224 Eriobotrya japonica 
+# REPLACED NCBITaxon_2843217 Rhaphiolepis bibas replaced by NCBITaxon_32224 Eriobotrya japonica 
 http://purl.obolibrary.org/obo/NCBITaxon_32224 # Eriobotrya japonica
 
 # DELETED NCBITaxon_260673 # species:Citrullus lanatus var. citroides Replaced by
 http://purl.obolibrary.org/obo/NCBITaxon_1567104 # Citrullus amarus
 
-# DELETED NCBITaxon_260674 # Citrullus lanatus subsp. vulgaris Replaced by
+# REPLACED NCBITaxon_260674 # Citrullus lanatus subsp. vulgaris
 http://purl.obolibrary.org/obo/NCBITaxon_3654 # Citrullus lanatus
 
-# DELETED NCBITaxon_206130 # Chelidonichthys lucernus Replaced by
+# REPLACED NCBITaxon_206130 # Chelidonichthys lucernus
 http://purl.obolibrary.org/obo/NCBITaxon_2576622 # Chelidonichthys lucerna / Tub gurnard
 
-# DELETED http://purl.obolibrary.org/obo/NCBITaxon_3840 # Vigna unguiculata subsp. cylindrica Replaced with 
+# REPLACED NCBITaxon_3840 # Vigna unguiculata subsp. cylindrica
 http://purl.obolibrary.org/obo/NCBITaxon_3091605 # 'Vigna cylindrica'
 
-# DELETED http://purl.obolibrary.org/obo/NCBITaxon_436001 # Alectis indicus / Alectis indica Replaced with
+# REPLACED NCBITaxon_436001 # Alectis indicus / Alectis indica
 http://purl.obolibrary.org/obo/NCBITaxon_3040459 # Scyris indica
 
-# DELETED http://purl.obolibrary.org/obo/NCBITaxon_45947 # family:Corbiculidae Gray, 1847 REPLACED WITH
+# REPLACED NCBITaxon_45947 # family:Corbiculidae Gray, 1847 
 http://purl.obolibrary.org/obo/NCBITaxon_1176409 # Cyrenidae
 
-# DELETED http://purl.obolibrary.org/obo/NCBITaxon_48038 # Foeniculum vulgare P. Mill. REPLACED WITH
+# REPLACED NCBITaxon_48038 # Foeniculum vulgare P. Mill. 
 http://purl.obolibrary.org/obo/NCBITaxon_2849586 # Anethum foeniculum
 
-# DELETED http://purl.obolibrary.org/obo/NCBITaxon_5400 # species:Agrocybe aegerita REPLACED WITH
+# REPLACED NCBITaxon_5400 # species:Agrocybe aegerita
 http://purl.obolibrary.org/obo/NCBITaxon_1973307 # Cyclocybe aegerita
 
-# DELETED http://purl.obolibrary.org/obo/NCBITaxon_76929 # Cheilodactylus bergi
+# REPLACED NCBITaxon_76929 # Cheilodactylus bergi
 http://purl.obolibrary.org/obo/NCBITaxon_76927 # Nemadactylus bergi
 
-#DELETED NCBITaxon_75034 # Pomatomus saltatrix FDA Seafood
+# REPLACED NCBITaxon_75034 # Pomatomus saltatrix FDA Seafood
 http://purl.obolibrary.org/obo/NCBITaxon_94948 # Pomatomus saltator
 
-# DELETED NCBITaxon_740707 # Raja stellulata FDA Seafood
-# DELETED NCBITaxon_2838340 # Beringraja stellulata
+# REPLACED NCBITaxon_740707 # Raja stellulata FDA Seafood
+# REPLACED NCBITaxon_2838340 # Beringraja stellulata
 http://purl.obolibrary.org/obo/NCBITaxon_3363547 # Caliraja stellulata
 
-#DELETED NCBITaxon_6786 # Cryptodromiopsis antillensis (Stimpson, 1858)
+# REPLACED NCBITaxon_6786 # Cryptodromiopsis antillensis (Stimpson, 1858)
 # Reintroduced FoodOn term
 
-#DELETED NCBITaxon_66703 # Barbatia cancellaria, FDA Seafood
+# REPLACED NCBITaxon_66703 # Barbatia cancellaria, FDA Seafood
 http://purl.obolibrary.org/obo/NCBITaxon_121031 # Barbatia domingensis
 
-#DELETED NCBITaxon_558553 # Crassostrea angulate, FDA Seafood
+# REPLACED NCBITaxon_558553 # Crassostrea angulate, FDA Seafood
 http://purl.obolibrary.org/obo/NCBITaxon_2784310 # Magallana angulata
 
-#DELETED NCBITaxon_555488 # Haemulon chrysargyreum
+# REPLACED NCBITaxon_555488 # Haemulon chrysargyreum
 http://purl.obolibrary.org/obo/NCBITaxon_3352919 # Brachygenys chrysargyrea
 
-#DELETED NCBITaxon_548163 # Meuschenia scaber 
+# REPLACED NCBITaxon_548163 # Meuschenia scaber 
 http://purl.obolibrary.org/obo/NCBITaxon_392933 # Scobinichthys granulatus	
 
-# DELETED NCBITaxon_381874 # Pteroglossus bailloni / saffron toucanet
+# REPLACED NCBITaxon_381874 # Pteroglossus bailloni / saffron toucanet
 http://purl.obolibrary.org/obo/NCBITaxon_91763 # Baillonius bailloni 
 
-# DELETED http://purl.obolibrary.org/obo/NCBITaxon_33514 # Raja eglanteria
+# REPLACED http://purl.obolibrary.org/obo/NCBITaxon_33514 # Raja eglanteria
 http://purl.obolibrary.org/obo/NCBITaxon_3360502 # Rostroraja eglanteria
 
-# DELETED NCBITaxon_205127 # Glossogobius giuris
+# REPLACED NCBITaxon_205127 # Glossogobius giuris
 http://purl.obolibrary.org/obo/NCBITaxon_3352506 # Awaous gutum
 
-# DELETED NCBITaxon_179358 # species:Alectis alexandrinus (Geoffroy Saint-Hilaire, 1817)
+# REPLACED NCBITaxon_179358 # species:Alectis alexandrinus (Geoffroy Saint-Hilaire, 1817)
 http://purl.obolibrary.org/obo/NCBITaxon_3049903 # Scyris alexandrina / Alectis alexandrina / African threadfish
 
-# DELETED NCBITaxon_163129 # Arripis georgianus
+# REPLACED NCBITaxon_163129 # Arripis georgianus
 http://purl.obolibrary.org/obo/NCBITaxon_3352246 # Arripis georgiana
 
-# DELETED http://purl.obolibrary.org/obo/NCBITaxon_387452 # Macrostrombus costatus / milk conch
+# REPLACED NCBITaxon_387452 # Macrostrombus costatus / milk conch
 http://purl.obolibrary.org/obo/NCBITaxon_3241545 # Aliger costatus
 
-# DELETED NCBITaxon_1003771 # Paracaesio xanthura
+# REPLACED NCBITaxon_1003771 # Paracaesio xanthura
 http://purl.obolibrary.org/obo/NCBITaxon_3358813 # Paracaesio xanthurus \ yellowtail blue snapper
 
-# DELETED http://purl.obolibrary.org/obo/NCBITaxon_76921 # Cheilodactylus gibbosus FDA Seafood
+# REPLACED NCBITaxon_76921 # Cheilodactylus gibbosus FDA Seafood
 http://purl.obolibrary.org/obo/NCBITaxon_3052985 # Goniistius gibbosus
+
+
+# REPLACED NCBITaxon_55048 # Mustela frenata
+http://purl.obolibrary.org/obo/NCBITaxon_3370370 # Neogale frenata
+
+# REPLACED NCBITaxon_155054 #    Budorcas taxicolor tibetana
+http://purl.obolibrary.org/obo/NCBITaxon_3369737 # Budorcas tibetana
 
 http://purl.obolibrary.org/obo/NCBITaxon_303721 # Meuschenia # parent of FoodOn Meuschenia galii
 
@@ -734,7 +741,6 @@ http://purl.obolibrary.org/obo/NCBITaxon_154813 # Cycleptus elongatus
 http://purl.obolibrary.org/obo/NCBITaxon_1548725 # Serripes groenlandicus
 http://purl.obolibrary.org/obo/NCBITaxon_154953 # genus:Genypterus Philippi, 1857
 http://purl.obolibrary.org/obo/NCBITaxon_154954 # species:Genypterus blacodes (Forster in Bloch and Schneider, 1801)
-http://purl.obolibrary.org/obo/NCBITaxon_155054 #    Budorcas taxicolor tibetana
 http://purl.obolibrary.org/obo/NCBITaxon_155067 # species:Vimba vimba (Linnaeus, 1758)
 http://purl.obolibrary.org/obo/NCBITaxon_155124 # species:Aspalathus linearis (Burman f.) R. Dahlgren
 http://purl.obolibrary.org/obo/NCBITaxon_155231 # genus:Sideritis L.
@@ -3096,7 +3102,6 @@ http://purl.obolibrary.org/obo/NCBITaxon_549457 # Paphies subtriangulata
 http://purl.obolibrary.org/obo/NCBITaxon_549588 # species:Lophius vomerinus Valenciennes in Cuvier and Valenciennes, 1837
 http://purl.obolibrary.org/obo/NCBITaxon_54986 # family:Fissurellidae Fleming, 1822
 http://purl.obolibrary.org/obo/NCBITaxon_54989 # Diodora aspera
-http://purl.obolibrary.org/obo/NCBITaxon_55048 # Mustela frenata
 http://purl.obolibrary.org/obo/NCBITaxon_55111 # family:Notacanthidae
 http://purl.obolibrary.org/obo/NCBITaxon_55118 # family:Clupeidae
 http://purl.obolibrary.org/obo/NCBITaxon_55119 # subfamily:Alosinae

@@ -2372,6 +2372,8 @@ Declaration(Class(obo:NCBITaxon_3363547))
 Declaration(Class(obo:NCBITaxon_33636))
 Declaration(Class(obo:NCBITaxon_33637))
 Declaration(Class(obo:NCBITaxon_3367))
+Declaration(Class(obo:NCBITaxon_3369737))
+Declaration(Class(obo:NCBITaxon_3370370))
 Declaration(Class(obo:NCBITaxon_337539))
 Declaration(Class(obo:NCBITaxon_337629))
 Declaration(Class(obo:NCBITaxon_337631))
@@ -5086,6 +5088,7 @@ Declaration(Class(obo:NCBITaxon_9647))
 Declaration(Class(obo:NCBITaxon_96479))
 Declaration(Class(obo:NCBITaxon_9653))
 Declaration(Class(obo:NCBITaxon_9654))
+Declaration(Class(obo:NCBITaxon_9655))
 Declaration(Class(obo:NCBITaxon_96776))
 Declaration(Class(obo:NCBITaxon_96777))
 Declaration(Class(obo:NCBITaxon_96778))
@@ -21227,6 +21230,20 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3367 "cypress family"
 AnnotationAssertion(rdfs:label obo:NCBITaxon_3367 "Cupressaceae")
 SubClassOf(obo:NCBITaxon_3367 obo:NCBITaxon_2821351)
 
+# Class: obo:NCBITaxon_3369737 (Budorcas tibetana)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3369737 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3369737 "Sichuan takin")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_3369737 "Budorcas tibetana")
+SubClassOf(obo:NCBITaxon_3369737 obo:NCBITaxon_9963)
+
+# Class: obo:NCBITaxon_3370370 (Neogale frenata)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_3370370 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_3370370 "long-tailed weasel")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_3370370 "Neogale frenata")
+SubClassOf(obo:NCBITaxon_3370370 obo:NCBITaxon_9655)
+
 # Class: obo:NCBITaxon_337539 (Mystus vittatus)
 
 AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_337539 obo:ncbitaxon.owl)
@@ -35282,7 +35299,7 @@ AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_76717 obo:ncbitaxon.owl)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_76717 "Northern American river otter")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_76717 "river otter")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_76717 "Lontra canadensis")
-SubClassOf(obo:NCBITaxon_76717 obo:NCBITaxon_3072906)
+SubClassOf(obo:NCBITaxon_76717 obo:NCBITaxon_9655)
 
 # Class: obo:NCBITaxon_7675 (Echinidea)
 
@@ -39972,6 +39989,13 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_9654 "northern raccoo
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_9654 "raccoon")
 AnnotationAssertion(rdfs:label obo:NCBITaxon_9654 "Procyon lotor")
 SubClassOf(obo:NCBITaxon_9654 obo:NCBITaxon_9653)
+
+# Class: obo:NCBITaxon_9655 (Mustelidae)
+
+AnnotationAssertion(obo:IAO_0000412 obo:NCBITaxon_9655 obo:ncbitaxon.owl)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:NCBITaxon_9655 "weasel, mink, badger, martens and others")
+AnnotationAssertion(rdfs:label obo:NCBITaxon_9655 "Mustelidae")
+SubClassOf(obo:NCBITaxon_9655 obo:NCBITaxon_3072906)
 
 # Class: obo:NCBITaxon_96776 (Trachichthyidae)
 
