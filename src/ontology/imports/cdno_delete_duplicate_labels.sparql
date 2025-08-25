@@ -1,0 +1,14 @@
+# Run this via ROBOT: robot query --input cdno_import.owl --update cdno_delete_duplicate_labels.sparql --output cdno_import.owl
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX xml: <http://www.w3.org/XML/1998/>
+DELETE {
+  ?subject rdfs:label ?label2
+}
+WHERE {
+	?subject rdfs:label ?label .
+	?subject rdfs:label ?label2.
+	FILTER (DATATYPE(?label) != DATATYPE(?label2)).
+	FILTER (DATATYPE(?label) = xsd:string && DATATYPE(?label2) = xml:namespacestring).
+}
