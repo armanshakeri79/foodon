@@ -181,9 +181,11 @@ Declaration(Class(obo:CHEBI_23229))
 Declaration(Class(obo:CHEBI_23230))
 Declaration(Class(obo:CHEBI_23232))
 Declaration(Class(obo:CHEBI_23252))
+Declaration(Class(obo:CHEBI_233023))
 Declaration(Class(obo:CHEBI_23333))
 Declaration(Class(obo:CHEBI_23334))
 Declaration(Class(obo:CHEBI_23341))
+Declaration(Class(obo:CHEBI_233500))
 Declaration(Class(obo:CHEBI_23367))
 Declaration(Class(obo:CHEBI_23390))
 Declaration(Class(obo:CHEBI_23401))
@@ -371,6 +373,7 @@ Declaration(Class(obo:CHEBI_26979))
 Declaration(Class(obo:CHEBI_26986))
 Declaration(Class(obo:CHEBI_27007))
 Declaration(Class(obo:CHEBI_27013))
+Declaration(Class(obo:CHEBI_27027))
 Declaration(Class(obo:CHEBI_27081))
 Declaration(Class(obo:CHEBI_27093))
 Declaration(Class(obo:CHEBI_27115))
@@ -476,6 +479,7 @@ Declaration(Class(obo:CHEBI_3311))
 Declaration(Class(obo:CHEBI_33118))
 Declaration(Class(obo:CHEBI_3312))
 Declaration(Class(obo:CHEBI_33145))
+Declaration(Class(obo:CHEBI_33229))
 Declaration(Class(obo:CHEBI_33234))
 Declaration(Class(obo:CHEBI_33240))
 Declaration(Class(obo:CHEBI_33241))
@@ -488,6 +492,7 @@ Declaration(Class(obo:CHEBI_33260))
 Declaration(Class(obo:CHEBI_33261))
 Declaration(Class(obo:CHEBI_33262))
 Declaration(Class(obo:CHEBI_33273))
+Declaration(Class(obo:CHEBI_33284))
 Declaration(Class(obo:CHEBI_33285))
 Declaration(Class(obo:CHEBI_33290))
 Declaration(Class(obo:CHEBI_33296))
@@ -825,6 +830,7 @@ Declaration(Class(obo:CHEBI_51689))
 Declaration(Class(obo:CHEBI_51721))
 Declaration(Class(obo:CHEBI_51958))
 Declaration(Class(obo:CHEBI_51959))
+Declaration(Class(obo:CHEBI_52206))
 Declaration(Class(obo:CHEBI_52211))
 Declaration(Class(obo:CHEBI_52267))
 Declaration(Class(obo:CHEBI_52457))
@@ -990,7 +996,6 @@ Declaration(Class(obo:CHEBI_9405))
 Declaration(Class(obo:CHEBI_9679))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000412))
-Declaration(AnnotationProperty(<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym>))
 Declaration(AnnotationProperty(rdfs:label))
 ############################
 #   Annotation Properties
@@ -2290,6 +2295,12 @@ AnnotationAssertion(rdfs:label obo:CHEBI_23252 "cinnamic acids")
 SubClassOf(obo:CHEBI_23252 obo:CHEBI_78840)
 SubClassOf(obo:CHEBI_23252 obo:CHEBI_79020)
 
+# Class: obo:CHEBI_233023 ((beta)(gamma)-tocopherol)
+
+AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_233023 obo:chebi.owl)
+AnnotationAssertion(rdfs:label obo:CHEBI_233023 "(beta)(gamma)-tocopherol")
+SubClassOf(obo:CHEBI_233023 obo:CHEBI_27013)
+
 # Class: obo:CHEBI_23333 (cob(III)alamins)
 
 AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_23333 obo:chebi.owl)
@@ -2308,6 +2319,13 @@ SubClassOf(obo:CHEBI_23334 obo:CHEBI_23341)
 AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_23341 obo:chebi.owl)
 AnnotationAssertion(rdfs:label obo:CHEBI_23341 "cobamides")
 SubClassOf(obo:CHEBI_23341 obo:CHEBI_23390)
+
+# Class: obo:CHEBI_233500 (post-transition metal atom)
+
+AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_233500 "A group of metal atoms that are located in the periodic table between transition metals and metalloids.")
+AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_233500 obo:chebi.owl)
+AnnotationAssertion(rdfs:label obo:CHEBI_233500 "post-transition metal atom")
+SubClassOf(obo:CHEBI_233500 obo:CHEBI_33521)
 
 # Class: obo:CHEBI_23367 (molecular entity)
 
@@ -3620,8 +3638,8 @@ SubClassOf(obo:CHEBI_26986 obo:CHEBI_38263)
 
 AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_27007 obo:chebi.owl)
 AnnotationAssertion(rdfs:label obo:CHEBI_27007 "tin atom")
+SubClassOf(obo:CHEBI_27007 obo:CHEBI_233500)
 SubClassOf(obo:CHEBI_27007 obo:CHEBI_33306)
-SubClassOf(obo:CHEBI_27007 obo:CHEBI_33521)
 
 # Class: obo:CHEBI_27013 (tocopherol)
 
@@ -3629,6 +3647,13 @@ AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_27013 "A collective name for a gro
 AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_27013 obo:chebi.owl)
 AnnotationAssertion(rdfs:label obo:CHEBI_27013 "tocopherol")
 SubClassOf(obo:CHEBI_27013 obo:CHEBI_39437)
+
+# Class: obo:CHEBI_27027 (micronutrient)
+
+AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_27027 "Any nutrient required in small quantities by organisms throughout their life in order to orchestrate a range of physiological functions.")
+AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_27027 obo:chebi.owl)
+AnnotationAssertion(rdfs:label obo:CHEBI_27027 "micronutrient")
+SubClassOf(obo:CHEBI_27027 obo:CHEBI_33284)
 
 # Class: obo:CHEBI_27081 (transition element atom)
 
@@ -3991,8 +4016,8 @@ SubClassOf(obo:CHEBI_28972 obo:CHEBI_16997)
 
 AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_28984 obo:chebi.owl)
 AnnotationAssertion(rdfs:label obo:CHEBI_28984 "aluminium atom")
+SubClassOf(obo:CHEBI_28984 obo:CHEBI_233500)
 SubClassOf(obo:CHEBI_28984 obo:CHEBI_33317)
-SubClassOf(obo:CHEBI_28984 obo:CHEBI_33521)
 
 # Class: obo:CHEBI_29016 (arginine)
 
@@ -4382,6 +4407,14 @@ AnnotationAssertion(rdfs:label obo:CHEBI_33145 "boron oxoacid")
 SubClassOf(obo:CHEBI_33145 obo:CHEBI_22916)
 SubClassOf(obo:CHEBI_33145 obo:CHEBI_24833)
 
+# Class: obo:CHEBI_33229 (vitamin (role))
+
+AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_33229 "A biochemical role played by any micronutrient that is an organic compound. Vitamins are present in foods in small amounts and are essential to normal metabolism and biochemical functions, usually as coenzymes. The term \"vitamines\" (from vita + amines) was coined in 1912 by Casimir Funk, who believed that these compounds were amines.")
+AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_33229 obo:chebi.owl)
+AnnotationAssertion(rdfs:label obo:CHEBI_33229 "vitamin (role)")
+SubClassOf(obo:CHEBI_33229 obo:CHEBI_27027)
+SubClassOf(obo:CHEBI_33229 obo:CHEBI_52206)
+
 # Class: obo:CHEBI_33234 (vitamin E)
 
 AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_33234 "Any member of a group of fat-soluble chromanols  that exhibit biological activity against vitamin E deficiency. The vitamers in this class consists of a chroman-6-ol core which is substituted at position 2 by a methyl group and (also at position 2) either a saturated or a triply-unsaturated hydrocarbon chain consisting of three isoprenoid units. The major function of vitamin E is to act as a natural antioxidant by scavenging free radicals and molecular oxygen.")
@@ -4469,6 +4502,13 @@ AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_33273 obo:chebi.owl)
 AnnotationAssertion(rdfs:label obo:CHEBI_33273 "polyatomic anion")
 SubClassOf(obo:CHEBI_33273 obo:CHEBI_22563)
 SubClassOf(obo:CHEBI_33273 obo:CHEBI_36358)
+
+# Class: obo:CHEBI_33284 (nutrient)
+
+AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_33284 "A nutrient is a food component that an organism uses to survive and grow.")
+AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_33284 obo:chebi.owl)
+AnnotationAssertion(rdfs:label obo:CHEBI_33284 "nutrient")
+SubClassOf(obo:CHEBI_33284 obo:CHEBI_78295)
 
 # Class: obo:CHEBI_33285 (heteroorganic entity)
 
@@ -6851,6 +6891,13 @@ AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_51959 obo:chebi.owl)
 AnnotationAssertion(rdfs:label obo:CHEBI_51959 "organic tricyclic compound")
 SubClassOf(obo:CHEBI_51959 obo:CHEBI_51958)
 
+# Class: obo:CHEBI_52206 (biochemical role)
+
+AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_52206 "A biological role played by the molecular entity or part thereof within a biochemical context.")
+AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_52206 obo:chebi.owl)
+AnnotationAssertion(rdfs:label obo:CHEBI_52206 "biochemical role")
+SubClassOf(obo:CHEBI_52206 obo:CHEBI_24432)
+
 # Class: obo:CHEBI_52211 (physiological role)
 
 AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_52211 obo:chebi.owl)
@@ -7197,7 +7244,6 @@ SubClassOf(obo:CHEBI_59999 obo:CHEBI_24431)
 
 AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_60004 "A mixture is a chemical substance composed of multiple molecules, at least two of which are of a different kind.")
 AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_60004 obo:chebi.owl)
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> obo:CHEBI_60004 "mixed"@en)
 AnnotationAssertion(rdfs:label obo:CHEBI_60004 "mixture")
 SubClassOf(obo:CHEBI_60004 obo:CHEBI_59999)
 
@@ -7680,7 +7726,7 @@ SubClassOf(obo:CHEBI_76359 obo:CHEBI_60004)
 
 # Class: obo:CHEBI_76579 (triradylglycerol)
 
-AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_76579 "A glycerol compound having one of three possible substituent groups - either acyl, alkyl, or alk-1-enyl - at each of the three possible positions sn-1, sn-2 or sn-3. has functional parent glycerol (CHEBI:17754), children: triglyceride (CHEBI:17855). Parent: is_a glycerolipid (CHEBI:35741)")
+AnnotationAssertion(obo:IAO_0000115 obo:CHEBI_76579 "Any glycerolipid that is glycerol bearing three substituent groups - either acyl, alkyl, or alk-1-enyl at each of the three possible positions.")
 AnnotationAssertion(obo:IAO_0000412 obo:CHEBI_76579 obo:chebi.owl)
 AnnotationAssertion(rdfs:label obo:CHEBI_76579 "triradylglycerol")
 SubClassOf(obo:CHEBI_76579 obo:CHEBI_35741)
