@@ -22007,13 +22007,13 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_03411569> 
 EquivalentClasses(<http://purl.obolibrary.org/obo/FOODON_03411569> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/FAO_0000007> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002162> <http://purl.obolibrary.org/obo/NCBITaxon_36066>)))
 SubClassOf(<http://purl.obolibrary.org/obo/FOODON_03411569> <http://purl.obolibrary.org/obo/FOODON_00003529>)
 
-# Class: <http://purl.obolibrary.org/obo/FOODON_03411632> (oyster mushroom genus)
+# Class: <http://purl.obolibrary.org/obo/FOODON_03411632> (oyster mushroom)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/FOODON_03411632> "A fruitbody of Pleurotus genus fungus."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/FOODON_03411632> "https://en.wikipedia.org/wiki/Pleurotus")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/FOODON_03411632> "pleurotus spp."@en)
 AnnotationAssertion(rdfs:comment <http://purl.obolibrary.org/obo/FOODON_03411632> "Pleurotus is a genus of gilled mushrooms which includes one of the most widely eaten mushrooms, *Pleurotus ostreatus*. Species of *Pleurotus* may be called oyster, abalone, or tree mushrooms, and are some of the most commonly cultivated edible mushrooms in the world."@en)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_03411632> "oyster mushroom genus"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/FOODON_03411632> "oyster mushroom"@en)
 EquivalentClasses(<http://purl.obolibrary.org/obo/FOODON_03411632> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/FAO_0000007> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002162> <http://purl.obolibrary.org/obo/NCBITaxon_5320>)))
 SubClassOf(<http://purl.obolibrary.org/obo/FOODON_03411632> <http://purl.obolibrary.org/obo/FOODON_00003528>)
 
