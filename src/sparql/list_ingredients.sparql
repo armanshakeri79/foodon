@@ -1,0 +1,21 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+# SPARQL query to list all ingredients mentioned in the FoodOn ontology
+# This query finds all food materials that are used as ingredients in other foods
+
+SELECT DISTINCT ?ingredient ?ingredient_label ?food ?food_label
+WHERE {
+  # Find triples where a food has an ingredient
+  ?food obo:FOODON_00002420 ?ingredient .
+  
+  # Get labels for the food and ingredient
+  OPTIONAL { ?ingredient rdfs:label ?ingredient_label }
+  OPTIONAL { ?food rdfs:label ?food_label }
+  
+  # Filter out deprecated terms
+  FILTER NOT EXISTS { ?ingredient owl:deprecated true }
+  FILTER NOT EXISTS { ?food owl:deprecated true }
+}
+ORDER BY ?ingredient_label ?food_label
