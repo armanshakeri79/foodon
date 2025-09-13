@@ -35,6 +35,25 @@ Editors of this ontology should use the edit version, [src/ontology/foodon-edit.
 
 An easy place to browse FoodOn is at [https://www.ebi.ac.uk/ols/ontologies/foodon](https://www.ebi.ac.uk/ols/ontologies/foodon). As well the URI's of terms in the ontology resolve to the comprehensive [Ontobee ontology lookup service](http://www.ontobee.org/). It is organized according to the upper level BFO ontology, so most terms can be browsed by starting at the BFO "entity" term (e.g. in [Ontobee](http://www.ontobee.org/ontology/FOODON?iri=http://purl.obolibrary.org/obo/BFO_0000001)).
 
+## Tools
+
+### List Ingredients
+
+A Python script is available to extract and list all ingredients from the FoodOn ontology:
+
+```bash
+# Show summary of ingredients found
+python3 list_ingredients.py --summary
+
+# List all ingredients with details
+python3 list_ingredients.py
+
+# Export as CSV or JSON
+python3 list_ingredients.py --format csv
+```
+
+See [README_ingredients.md](README_ingredients.md) for detailed usage instructions.
+
 ## Acknowledgements
 
 This ontology repository was created using the [Ontology Development Kit (ODK)](https://github.com/INCATools/ontology-development-kit).
